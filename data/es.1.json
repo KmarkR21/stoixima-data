@@ -955,64 +955,64 @@
       "time": "18:00"
     },
     {
-      "team1": "Rayo Vallecano de Madrid",
-      "team2": "Elche CF",
-      "date": "2026-10-25",
-      "time": "00:00"
-    },
-    {
       "team1": "Deportivo Alavés",
       "team2": "Málaga CF",
-      "date": "2026-10-25",
-      "time": "00:00"
+      "date": "2026-10-23",
+      "time": "19:00"
+    },
+    {
+      "team1": "Rayo Vallecano de Madrid",
+      "team2": "Elche CF",
+      "date": "2026-10-24",
+      "time": "12:00"
+    },
+    {
+      "team1": "Real Racing Club de Santander",
+      "team2": "RCD Espanyol de Barcelona",
+      "date": "2026-10-24",
+      "time": "14:15"
+    },
+    {
+      "team1": "Valencia CF",
+      "team2": "Villarreal CF",
+      "date": "2026-10-24",
+      "time": "16:30"
+    },
+    {
+      "team1": "Club Atlético de Madrid",
+      "team2": "RC Deportivo La Coruña",
+      "date": "2026-10-24",
+      "time": "19:00"
     },
     {
       "team1": "Athletic Club",
       "team2": "Getafe CF",
       "date": "2026-10-25",
-      "time": "00:00"
-    },
-    {
-      "team1": "Sevilla FC",
-      "team2": "CA Osasuna",
-      "date": "2026-10-25",
-      "time": "00:00"
-    },
-    {
-      "team1": "Valencia CF",
-      "team2": "Villarreal CF",
-      "date": "2026-10-25",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Barcelona",
-      "team2": "Real Madrid CF",
-      "date": "2026-10-25",
-      "time": "00:00"
-    },
-    {
-      "team1": "Club Atlético de Madrid",
-      "team2": "RC Deportivo La Coruña",
-      "date": "2026-10-25",
-      "time": "00:00"
+      "time": "13:00"
     },
     {
       "team1": "RC Celta de Vigo",
       "team2": "Real Betis Balompié",
       "date": "2026-10-25",
-      "time": "00:00"
+      "time": "15:15"
     },
     {
       "team1": "Real Sociedad de Fútbol",
       "team2": "Levante UD",
       "date": "2026-10-25",
-      "time": "00:00"
+      "time": "17:30"
     },
     {
-      "team1": "Real Racing Club de Santander",
-      "team2": "RCD Espanyol de Barcelona",
+      "team1": "FC Barcelona",
+      "team2": "Real Madrid CF",
       "date": "2026-10-25",
-      "time": "00:00"
+      "time": "20:00"
+    },
+    {
+      "team1": "Sevilla FC",
+      "team2": "CA Osasuna",
+      "date": "2026-10-26",
+      "time": "20:00"
     },
     {
       "team1": "Real Betis Balompié",
