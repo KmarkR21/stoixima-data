@@ -985,20 +985,26 @@
       "time": "19:45"
     },
     {
-      "team1": "US Sassuolo Calcio",
-      "team2": "Genoa CFC",
+      "team1": "Juventus FC",
+      "team2": "Venezia FC",
       "date": "2026-11-22",
       "time": "11:30"
     },
     {
-      "team1": "AC Milan",
-      "team2": "Frosinone Calcio",
+      "team1": "Bologna FC 1909",
+      "team2": "Udinese Calcio",
       "date": "2026-11-22",
       "time": "14:00"
     },
     {
-      "team1": "Bologna FC 1909",
-      "team2": "Udinese Calcio",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Genoa CFC",
+      "date": "2026-11-22",
+      "time": "14:00"
+    },
+    {
+      "team1": "AC Milan",
+      "team2": "Frosinone Calcio",
       "date": "2026-11-22",
       "time": "17:00"
     },
@@ -1012,433 +1018,427 @@
       "team1": "AC Monza",
       "team2": "ACF Fiorentina",
       "date": "2026-11-23",
+      "time": "19:45"
+    },
+    {
+      "team1": "Venezia FC",
+      "team2": "Bologna FC 1909",
+      "date": "2026-11-27",
+      "time": "19:45"
+    },
+    {
+      "team1": "Frosinone Calcio",
+      "team2": "Parma Calcio 1913",
+      "date": "2026-11-28",
+      "time": "14:00"
+    },
+    {
+      "team1": "Torino FC",
+      "team2": "SS Lazio",
+      "date": "2026-11-28",
+      "time": "17:00"
+    },
+    {
+      "team1": "FC Internazionale Milano",
+      "team2": "Genoa CFC",
+      "date": "2026-11-28",
+      "time": "19:45"
+    },
+    {
+      "team1": "Udinese Calcio",
+      "team2": "ACF Fiorentina",
+      "date": "2026-11-29",
+      "time": "11:30"
+    },
+    {
+      "team1": "US Sassuolo Calcio",
+      "team2": "SSC Napoli",
+      "date": "2026-11-29",
+      "time": "14:00"
+    },
+    {
+      "team1": "AS Roma",
+      "team2": "AC Monza",
+      "date": "2026-11-29",
+      "time": "17:00"
+    },
+    {
+      "team1": "Como 1907",
+      "team2": "Juventus FC",
+      "date": "2026-11-29",
+      "time": "19:45"
+    },
+    {
+      "team1": "US Lecce",
+      "team2": "Atalanta BC",
+      "date": "2026-11-30",
+      "time": "17:30"
+    },
+    {
+      "team1": "Cagliari Calcio",
+      "team2": "AC Milan",
+      "date": "2026-11-30",
+      "time": "19:45"
+    },
+    {
+      "team1": "Bologna FC 1909",
+      "team2": "AS Roma",
+      "date": "2026-12-04",
+      "time": "19:45"
+    },
+    {
+      "team1": "AC Monza",
+      "team2": "Como 1907",
+      "date": "2026-12-05",
+      "time": "14:00"
+    },
+    {
+      "team1": "Frosinone Calcio",
+      "team2": "FC Internazionale Milano",
+      "date": "2026-12-05",
+      "time": "17:00"
+    },
+    {
+      "team1": "SSC Napoli",
+      "team2": "US Lecce",
+      "date": "2026-12-05",
+      "time": "19:45"
+    },
+    {
+      "team1": "Genoa CFC",
+      "team2": "Torino FC",
+      "date": "2026-12-06",
+      "time": "11:30"
+    },
+    {
+      "team1": "SS Lazio",
+      "team2": "Atalanta BC",
+      "date": "2026-12-06",
+      "time": "14:00"
+    },
+    {
+      "team1": "Juventus FC",
+      "team2": "Udinese Calcio",
+      "date": "2026-12-06",
+      "time": "17:00"
+    },
+    {
+      "team1": "AC Milan",
+      "team2": "Parma Calcio 1913",
+      "date": "2026-12-06",
+      "time": "19:45"
+    },
+    {
+      "team1": "Venezia FC",
+      "team2": "US Sassuolo Calcio",
+      "date": "2026-12-07",
+      "time": "17:30"
+    },
+    {
+      "team1": "ACF Fiorentina",
+      "team2": "Cagliari Calcio",
+      "date": "2026-12-07",
+      "time": "19:45"
+    },
+    {
+      "team1": "Udinese Calcio",
+      "team2": "Frosinone Calcio",
+      "date": "2026-12-11",
+      "time": "19:45"
+    },
+    {
+      "team1": "Cagliari Calcio",
+      "team2": "Venezia FC",
+      "date": "2026-12-12",
+      "time": "14:00"
+    },
+    {
+      "team1": "US Lecce",
+      "team2": "US Sassuolo Calcio",
+      "date": "2026-12-12",
+      "time": "17:00"
+    },
+    {
+      "team1": "Como 1907",
+      "team2": "Bologna FC 1909",
+      "date": "2026-12-12",
+      "time": "19:45"
+    },
+    {
+      "team1": "SS Lazio",
+      "team2": "AS Roma",
+      "date": "2026-12-13",
+      "time": "11:30"
+    },
+    {
+      "team1": "FC Internazionale Milano",
+      "team2": "Torino FC",
+      "date": "2026-12-13",
+      "time": "14:00"
+    },
+    {
+      "team1": "Parma Calcio 1913",
+      "team2": "ACF Fiorentina",
+      "date": "2026-12-13",
+      "time": "17:00"
+    },
+    {
+      "team1": "SSC Napoli",
+      "team2": "AC Milan",
+      "date": "2026-12-13",
+      "time": "19:45"
+    },
+    {
+      "team1": "Atalanta BC",
+      "team2": "Genoa CFC",
+      "date": "2026-12-14",
       "time": "17:30"
     },
     {
       "team1": "Juventus FC",
-      "team2": "Venezia FC",
-      "date": "2026-11-23",
+      "team2": "AC Monza",
+      "date": "2026-12-14",
+      "time": "19:45"
+    },
+    {
+      "team1": "Frosinone Calcio",
+      "team2": "SS Lazio",
+      "date": "2026-12-18",
+      "time": "17:30"
+    },
+    {
+      "team1": "US Lecce",
+      "team2": "FC Internazionale Milano",
+      "date": "2026-12-18",
       "time": "19:45"
     },
     {
       "team1": "US Sassuolo Calcio",
-      "team2": "SSC Napoli",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Cagliari Calcio",
-      "team2": "AC Milan",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Como 1907",
-      "team2": "Juventus FC",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "AS Roma",
-      "team2": "AC Monza",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Frosinone Calcio",
       "team2": "Parma Calcio 1913",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Torino FC",
-      "team2": "SS Lazio",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Venezia FC",
-      "team2": "Bologna FC 1909",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "US Lecce",
-      "team2": "Atalanta BC",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Udinese Calcio",
-      "team2": "ACF Fiorentina",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Internazionale Milano",
-      "team2": "Genoa CFC",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Genoa CFC",
-      "team2": "Torino FC",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Juventus FC",
-      "team2": "Udinese Calcio",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Frosinone Calcio",
-      "team2": "FC Internazionale Milano",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Bologna FC 1909",
-      "team2": "AS Roma",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "ACF Fiorentina",
-      "team2": "Cagliari Calcio",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "SS Lazio",
-      "team2": "Atalanta BC",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "AC Milan",
-      "team2": "Parma Calcio 1913",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Venezia FC",
-      "team2": "US Sassuolo Calcio",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "AC Monza",
-      "team2": "Como 1907",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "SSC Napoli",
-      "team2": "US Lecce",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "SSC Napoli",
-      "team2": "AC Milan",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Como 1907",
-      "team2": "Bologna FC 1909",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Udinese Calcio",
-      "team2": "Frosinone Calcio",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "US Lecce",
-      "team2": "US Sassuolo Calcio",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Parma Calcio 1913",
-      "team2": "ACF Fiorentina",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Cagliari Calcio",
-      "team2": "Venezia FC",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Internazionale Milano",
-      "team2": "Torino FC",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Juventus FC",
-      "team2": "AC Monza",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Atalanta BC",
-      "team2": "Genoa CFC",
-      "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "SS Lazio",
-      "team2": "AS Roma",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "date": "2026-12-19",
+      "time": "14:00"
     },
     {
       "team1": "AC Milan",
       "team2": "Como 1907",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "US Sassuolo Calcio",
-      "team2": "Parma Calcio 1913",
-      "date": "2026-12-20",
-      "time": "00:00"
+      "date": "2026-12-19",
+      "time": "17:00"
     },
     {
       "team1": "AS Roma",
       "team2": "Juventus FC",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "Frosinone Calcio",
-      "team2": "SS Lazio",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "Atalanta BC",
-      "team2": "SSC Napoli",
-      "date": "2026-12-20",
-      "time": "00:00"
+      "date": "2026-12-19",
+      "time": "19:45"
     },
     {
       "team1": "ACF Fiorentina",
       "team2": "Bologna FC 1909",
       "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "Genoa CFC",
-      "team2": "Udinese Calcio",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "US Lecce",
-      "team2": "FC Internazionale Milano",
-      "date": "2026-12-20",
-      "time": "00:00"
+      "time": "11:30"
     },
     {
       "team1": "Torino FC",
       "team2": "Cagliari Calcio",
       "date": "2026-12-20",
-      "time": "00:00"
+      "time": "14:00"
     },
     {
       "team1": "Venezia FC",
       "team2": "AC Monza",
       "date": "2026-12-20",
-      "time": "00:00"
+      "time": "14:00"
     },
     {
-      "team1": "Udinese Calcio",
-      "team2": "Atalanta BC",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "team1": "Genoa CFC",
+      "team2": "Udinese Calcio",
+      "date": "2026-12-20",
+      "time": "17:00"
     },
     {
-      "team1": "Como 1907",
-      "team2": "US Lecce",
-      "date": "2027-01-03",
-      "time": "00:00"
-    },
-    {
-      "team1": "AS Roma",
-      "team2": "Frosinone Calcio",
-      "date": "2027-01-03",
-      "time": "00:00"
-    },
-    {
-      "team1": "Parma Calcio 1913",
+      "team1": "Atalanta BC",
       "team2": "SSC Napoli",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "date": "2026-12-20",
+      "time": "19:45"
     },
     {
       "team1": "Cagliari Calcio",
       "team2": "Genoa CFC",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "date": "2027-01-02",
+      "time": "11:30"
     },
     {
       "team1": "Torino FC",
       "team2": "Venezia FC",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "date": "2027-01-02",
+      "time": "14:00"
+    },
+    {
+      "team1": "ACF Fiorentina",
+      "team2": "SS Lazio",
+      "date": "2027-01-02",
+      "time": "14:00"
+    },
+    {
+      "team1": "AS Roma",
+      "team2": "Frosinone Calcio",
+      "date": "2027-01-02",
+      "time": "17:00"
     },
     {
       "team1": "AC Monza",
       "team2": "AC Milan",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "date": "2027-01-02",
+      "time": "19:45"
     },
     {
       "team1": "FC Internazionale Milano",
       "team2": "US Sassuolo Calcio",
       "date": "2027-01-03",
-      "time": "00:00"
+      "time": "11:30"
+    },
+    {
+      "team1": "Udinese Calcio",
+      "team2": "Atalanta BC",
+      "date": "2027-01-03",
+      "time": "14:00"
+    },
+    {
+      "team1": "Como 1907",
+      "team2": "US Lecce",
+      "date": "2027-01-03",
+      "time": "14:00"
+    },
+    {
+      "team1": "Parma Calcio 1913",
+      "team2": "SSC Napoli",
+      "date": "2027-01-03",
+      "time": "17:00"
     },
     {
       "team1": "Bologna FC 1909",
       "team2": "Juventus FC",
       "date": "2027-01-03",
-      "time": "00:00"
+      "time": "19:45"
     },
     {
-      "team1": "ACF Fiorentina",
-      "team2": "SS Lazio",
-      "date": "2027-01-03",
-      "time": "00:00"
+      "team1": "Genoa CFC",
+      "team2": "AC Monza",
+      "date": "2027-01-05",
+      "time": "17:30"
+    },
+    {
+      "team1": "Venezia FC",
+      "team2": "AS Roma",
+      "date": "2027-01-05",
+      "time": "17:30"
+    },
+    {
+      "team1": "AC Milan",
+      "team2": "ACF Fiorentina",
+      "date": "2027-01-05",
+      "time": "19:45"
+    },
+    {
+      "team1": "Juventus FC",
+      "team2": "Torino FC",
+      "date": "2027-01-06",
+      "time": "11:30"
     },
     {
       "team1": "Frosinone Calcio",
       "team2": "Bologna FC 1909",
       "date": "2027-01-06",
-      "time": "00:00"
+      "time": "14:00"
+    },
+    {
+      "team1": "US Lecce",
+      "team2": "Parma Calcio 1913",
+      "date": "2027-01-06",
+      "time": "14:00"
+    },
+    {
+      "team1": "Atalanta BC",
+      "team2": "Como 1907",
+      "date": "2027-01-06",
+      "time": "17:00"
+    },
+    {
+      "team1": "SS Lazio",
+      "team2": "FC Internazionale Milano",
+      "date": "2027-01-06",
+      "time": "19:45"
     },
     {
       "team1": "US Sassuolo Calcio",
       "team2": "Udinese Calcio",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Genoa CFC",
-      "team2": "AC Monza",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Venezia FC",
-      "team2": "AS Roma",
-      "date": "2027-01-06",
-      "time": "00:00"
+      "date": "2027-01-07",
+      "time": "17:30"
     },
     {
       "team1": "SSC Napoli",
       "team2": "Cagliari Calcio",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "AC Milan",
-      "team2": "ACF Fiorentina",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Juventus FC",
-      "team2": "Torino FC",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Atalanta BC",
-      "team2": "Como 1907",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "SS Lazio",
-      "team2": "FC Internazionale Milano",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "US Lecce",
-      "team2": "Parma Calcio 1913",
-      "date": "2027-01-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "ACF Fiorentina",
-      "team2": "US Lecce",
-      "date": "2027-01-10",
-      "time": "00:00"
-    },
-    {
-      "team1": "Udinese Calcio",
-      "team2": "SSC Napoli",
-      "date": "2027-01-10",
-      "time": "00:00"
-    },
-    {
-      "team1": "Torino FC",
-      "team2": "Atalanta BC",
-      "date": "2027-01-10",
-      "time": "00:00"
+      "date": "2027-01-07",
+      "time": "19:45"
     },
     {
       "team1": "AC Monza",
       "team2": "Frosinone Calcio",
-      "date": "2027-01-10",
-      "time": "00:00"
+      "date": "2027-01-09",
+      "time": "14:00"
     },
     {
-      "team1": "FC Internazionale Milano",
-      "team2": "Juventus FC",
-      "date": "2027-01-10",
-      "time": "00:00"
-    },
-    {
-      "team1": "Parma Calcio 1913",
-      "team2": "Venezia FC",
-      "date": "2027-01-10",
-      "time": "00:00"
+      "team1": "AS Roma",
+      "team2": "AC Milan",
+      "date": "2027-01-09",
+      "time": "17:00"
     },
     {
       "team1": "Bologna FC 1909",
       "team2": "Genoa CFC",
-      "date": "2027-01-10",
-      "time": "00:00"
-    },
-    {
-      "team1": "Cagliari Calcio",
-      "team2": "US Sassuolo Calcio",
-      "date": "2027-01-10",
-      "time": "00:00"
+      "date": "2027-01-09",
+      "time": "19:45"
     },
     {
       "team1": "Como 1907",
       "team2": "SS Lazio",
       "date": "2027-01-10",
-      "time": "00:00"
+      "time": "11:30"
     },
     {
-      "team1": "AS Roma",
-      "team2": "AC Milan",
+      "team1": "ACF Fiorentina",
+      "team2": "US Lecce",
       "date": "2027-01-10",
-      "time": "00:00"
+      "time": "14:00"
+    },
+    {
+      "team1": "Parma Calcio 1913",
+      "team2": "Venezia FC",
+      "date": "2027-01-10",
+      "time": "14:00"
+    },
+    {
+      "team1": "Torino FC",
+      "team2": "Atalanta BC",
+      "date": "2027-01-10",
+      "time": "17:00"
+    },
+    {
+      "team1": "FC Internazionale Milano",
+      "team2": "Juventus FC",
+      "date": "2027-01-10",
+      "time": "19:45"
+    },
+    {
+      "team1": "Cagliari Calcio",
+      "team2": "US Sassuolo Calcio",
+      "date": "2027-01-11",
+      "time": "17:30"
+    },
+    {
+      "team1": "Udinese Calcio",
+      "team2": "SSC Napoli",
+      "date": "2027-01-11",
+      "time": "19:45"
     },
     {
       "team1": "AC Milan",
