@@ -157,12 +157,6 @@
       }
     },
     {
-      "team1": "Sporting Clube de Braga",
-      "team2": "Gil Vicente FC",
-      "date": "2026-08-16",
-      "time": "00:00"
-    },
-    {
       "team1": "CD Nacional",
       "team2": "GD Estoril Praia",
       "date": "2026-08-16",
@@ -802,6 +796,12 @@
       "team1": "FC Famalicão",
       "team2": "FC Alverca",
       "date": "2026-10-12",
+      "time": "19:15"
+    },
+    {
+      "team1": "Sporting Clube de Braga",
+      "team2": "Gil Vicente FC",
+      "date": "2026-10-19",
       "time": "19:15"
     },
     {
