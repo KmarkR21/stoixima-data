@@ -1537,12 +1537,6 @@
       "time": "19:45"
     },
     {
-      "team1": "Birmingham City FC",
-      "team2": "Millwall FC",
-      "date": "2026-11-03",
-      "time": "19:45"
-    },
-    {
       "team1": "Portsmouth FC",
       "team2": "Swansea City AFC",
       "date": "2026-11-03",
@@ -1557,6 +1551,12 @@
     {
       "team1": "West Bromwich Albion FC",
       "team2": "Southampton FC",
+      "date": "2026-11-03",
+      "time": "20:00"
+    },
+    {
+      "team1": "Birmingham City FC",
+      "team2": "Millwall FC",
       "date": "2026-11-03",
       "time": "20:00"
     },
