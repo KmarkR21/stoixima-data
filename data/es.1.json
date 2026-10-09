@@ -832,7 +832,13 @@
       "team1": "Málaga CF",
       "team2": "RCD Espanyol de Barcelona",
       "date": "2026-10-09",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Rayo Vallecano de Madrid",

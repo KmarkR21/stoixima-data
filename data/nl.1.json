@@ -760,7 +760,13 @@
       "team1": "PSV",
       "team2": "SC Heerenveen",
       "date": "2026-10-09",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Go Ahead Eagles",
