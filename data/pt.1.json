@@ -769,16 +769,16 @@
       }
     },
     {
-      "team1": "Casa Pia AC",
-      "team2": "CD Santa Clara",
-      "date": "2026-10-10",
-      "time": "14:30"
-    },
-    {
       "team1": "CS Marítimo",
       "team2": "FC Porto",
       "date": "2026-10-10",
       "time": "17:00"
+    },
+    {
+      "team1": "Casa Pia AC",
+      "team2": "CD Santa Clara",
+      "date": "2026-10-10",
+      "time": "19:30"
     },
     {
       "team1": "Académico de Viseu FC",
