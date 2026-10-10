@@ -604,13 +604,25 @@
       "team1": "Genoa CFC",
       "team2": "ACF Fiorentina",
       "date": "2026-10-10",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Internazionale Milano",
       "team2": "Parma Calcio 1913",
       "date": "2026-10-10",
-      "time": "16:00"
+      "time": "16:00",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "SSC Napoli",

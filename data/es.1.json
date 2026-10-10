@@ -850,7 +850,13 @@
       "team1": "Deportivo Alavés",
       "team2": "Club Atlético de Madrid",
       "date": "2026-10-10",
-      "time": "14:15"
+      "time": "14:15",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "FC Barcelona",

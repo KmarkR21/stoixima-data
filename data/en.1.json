@@ -604,31 +604,61 @@
       "team1": "Arsenal FC",
       "team2": "Leeds United FC",
       "date": "2026-10-10",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Sunderland AFC",
       "team2": "Brighton & Hove Albion FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Chelsea FC",
       "team2": "AFC Bournemouth",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
       "team1": "Ipswich Town FC",
       "team2": "Fulham FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Aston Villa FC",
       "team2": "Brentford FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Manchester United FC",

@@ -556,7 +556,13 @@
       "team1": "Lille OSC",
       "team2": "Le Havre AC",
       "date": "2026-10-10",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Stade Brestois 29",

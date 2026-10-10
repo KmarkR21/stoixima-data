@@ -1156,61 +1156,121 @@
       "team1": "West Bromwich Albion FC",
       "team2": "Birmingham City FC",
       "date": "2026-10-10",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Swansea City AFC",
       "team2": "Norwich City FC",
       "date": "2026-10-10",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Charlton Athletic FC",
       "team2": "Bristol City FC",
       "date": "2026-10-10",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Sheffield United FC",
       "team2": "Lincoln City FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Watford FC",
       "team2": "Burnley FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
       "team1": "Derby County FC",
       "team2": "Wrexham AFC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Blackburn Rovers FC",
       "team2": "Cardiff City FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Bolton Wanderers FC",
       "team2": "Stoke City FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Preston North End FC",
       "team2": "Millwall FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Middlesbrough FC",
       "team2": "Wolverhampton Wanderers FC",
       "date": "2026-10-10",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Southampton FC",

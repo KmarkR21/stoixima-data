@@ -772,7 +772,13 @@
       "team1": "Go Ahead Eagles",
       "team2": "Sparta Rotterdam",
       "date": "2026-10-10",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
       "team1": "Feyenoord Rotterdam",
