@@ -784,19 +784,37 @@
       "team1": "Feyenoord Rotterdam",
       "team2": "AZ",
       "date": "2026-10-10",
-      "time": "16:45"
+      "time": "16:45",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Fortuna Sittard",
       "team2": "FC Twente '65",
       "date": "2026-10-10",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "AFC Ajax",
       "team2": "NEC",
       "date": "2026-10-10",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Utrecht",

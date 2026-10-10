@@ -772,19 +772,37 @@
       "team1": "CS Marítimo",
       "team2": "FC Porto",
       "date": "2026-10-10",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Casa Pia AC",
       "team2": "CD Santa Clara",
       "date": "2026-10-10",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Académico de Viseu FC",
       "team2": "GD Estoril Praia",
       "date": "2026-10-10",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Rio Ave FC",

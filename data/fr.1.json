@@ -568,25 +568,49 @@
       "team1": "Stade Brestois 29",
       "team2": "Angers SCO",
       "date": "2026-10-10",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Lorient",
       "team2": "Paris FC",
       "date": "2026-10-10",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Paris Saint-Germain FC",
       "team2": "Le Mans FC",
       "date": "2026-10-10",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "AS Monaco FC",
       "team2": "Toulouse FC",
       "date": "2026-10-10",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "OGC Nice",

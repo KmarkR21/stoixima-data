@@ -508,7 +508,13 @@
       "team1": "RB Leipzig",
       "team2": "Eintracht Frankfurt",
       "date": "2026-10-10",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          6,
+          0
+        ]
+      }
     },
     {
       "team1": "1. FC Köln",

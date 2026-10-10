@@ -664,7 +664,13 @@
       "team1": "Manchester United FC",
       "team2": "Tottenham Hotspur FC",
       "date": "2026-10-10",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Hull City AFC",

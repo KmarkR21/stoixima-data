@@ -628,7 +628,13 @@
       "team1": "SSC Napoli",
       "team2": "Frosinone Calcio",
       "date": "2026-10-10",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Como 1907",

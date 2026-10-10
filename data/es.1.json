@@ -862,13 +862,25 @@
       "team1": "FC Barcelona",
       "team2": "Getafe CF",
       "date": "2026-10-10",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Real Madrid CF",
       "team2": "Villarreal CF",
       "date": "2026-10-10",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Elche CF",
