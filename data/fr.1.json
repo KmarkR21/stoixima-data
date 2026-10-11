@@ -640,7 +640,13 @@
       "team1": "ES Troyes AC",
       "team2": "Olympique de Marseille",
       "date": "2026-10-11",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Le Mans FC",

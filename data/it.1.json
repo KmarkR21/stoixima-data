@@ -688,7 +688,13 @@
       "team1": "Cagliari Calcio",
       "team2": "Juventus FC",
       "date": "2026-10-11",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Atalanta BC",

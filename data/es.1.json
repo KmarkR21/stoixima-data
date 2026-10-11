@@ -922,7 +922,13 @@
       "team1": "Real Racing Club de Santander",
       "team2": "Valencia CF",
       "date": "2026-10-11",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Levante UD",
