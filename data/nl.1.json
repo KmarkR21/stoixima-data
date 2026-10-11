@@ -820,7 +820,13 @@
       "team1": "FC Utrecht",
       "team2": "Willem II Tilburg",
       "date": "2026-10-11",
-      "time": "10:15"
+      "time": "10:15",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "PEC Zwolle",
