@@ -520,13 +520,25 @@
       "team1": "1. FC Köln",
       "team2": "Borussia Mönchengladbach",
       "date": "2026-10-11",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "SC Freiburg",
       "team2": "FC Schalke 04",
       "date": "2026-10-11",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Eintracht Frankfurt",

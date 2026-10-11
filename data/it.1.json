@@ -640,25 +640,49 @@
       "team1": "Como 1907",
       "team2": "AS Roma",
       "date": "2026-10-11",
-      "time": "10:30"
+      "time": "10:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "US Lecce",
       "team2": "Bologna FC 1909",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "SS Lazio",
       "team2": "AC Monza",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "US Sassuolo Calcio",
       "team2": "AC Milan",
       "date": "2026-10-11",
-      "time": "16:00"
+      "time": "16:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Cagliari Calcio",

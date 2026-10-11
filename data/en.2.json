@@ -1276,7 +1276,13 @@
       "team1": "Southampton FC",
       "team2": "Portsmouth FC",
       "date": "2026-10-11",
-      "time": "11:00"
+      "time": "11:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Wolverhampton Wanderers FC",

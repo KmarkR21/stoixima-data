@@ -808,7 +808,13 @@
       "team1": "Rio Ave FC",
       "team2": "CD Nacional",
       "date": "2026-10-11",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Sport Lisboa e Benfica",

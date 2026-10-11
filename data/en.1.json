@@ -676,19 +676,37 @@
       "team1": "Hull City AFC",
       "team2": "Everton FC",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Crystal Palace FC",
       "team2": "Nottingham Forest FC",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Liverpool FC",
       "team2": "Manchester City FC",
       "date": "2026-10-11",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "Coventry City FC",
