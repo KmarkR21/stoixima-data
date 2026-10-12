@@ -844,7 +844,13 @@
       "team1": "FC Famalicão",
       "team2": "FC Alverca",
       "date": "2026-10-12",
-      "time": "19:15"
+      "time": "19:15",
+      "score": {
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
       "team1": "Sporting Clube de Braga",
