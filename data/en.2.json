@@ -1384,25 +1384,49 @@
       "team1": "Portsmouth FC",
       "team2": "Sheffield United FC",
       "date": "2026-10-14",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Norwich City FC",
       "team2": "Southampton FC",
       "date": "2026-10-14",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Queens Park Rangers FC",
       "team2": "Derby County FC",
       "date": "2026-10-14",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "Lincoln City FC",
       "team2": "West Ham United FC",
       "date": "2026-10-14",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          0,
+          6
+        ]
+      }
     },
     {
       "team1": "Burnley FC",
