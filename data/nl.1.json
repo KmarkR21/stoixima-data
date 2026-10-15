@@ -820,25 +820,49 @@
       "team1": "FC Utrecht",
       "team2": "Willem II Tilburg",
       "date": "2026-10-11",
-      "time": "10:15"
+      "time": "10:15",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "PEC Zwolle",
       "team2": "SC Cambuur-Leeuwarden",
       "date": "2026-10-11",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Telstar 1963",
       "team2": "ADO Den Haag",
       "date": "2026-10-11",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "SBV Excelsior",
       "team2": "FC Groningen",
       "date": "2026-10-11",
-      "time": "14:45"
+      "time": "14:45",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "team1": "SC Heerenveen",
