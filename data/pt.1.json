@@ -808,49 +808,25 @@
       "team1": "Rio Ave FC",
       "team2": "CD Nacional",
       "date": "2026-10-11",
-      "time": "14:30",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
+      "time": "14:30"
     },
     {
       "team1": "Sport Lisboa e Benfica",
       "team2": "Vitória SC",
       "date": "2026-10-11",
-      "time": "17:00",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
+      "time": "17:00"
     },
     {
       "team1": "FC Arouca",
       "team2": "CF Estrela da Amadora",
       "date": "2026-10-11",
-      "time": "19:30",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
+      "time": "19:30"
     },
     {
       "team1": "FC Famalicão",
       "team2": "FC Alverca",
       "date": "2026-10-12",
-      "time": "19:15",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
+      "time": "19:15"
     },
     {
       "team1": "Sporting Clube de Braga",
