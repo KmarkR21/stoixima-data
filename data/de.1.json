@@ -544,7 +544,13 @@
       "team1": "Eintracht Frankfurt",
       "team2": "1. FC Köln",
       "date": "2026-10-16",
-      "time": "18:30"
+      "time": "18:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "1. FC Union Berlin",

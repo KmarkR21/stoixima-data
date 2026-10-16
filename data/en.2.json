@@ -1432,7 +1432,13 @@
       "team1": "Burnley FC",
       "team2": "Wolverhampton Wanderers FC",
       "date": "2026-10-16",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Millwall FC",

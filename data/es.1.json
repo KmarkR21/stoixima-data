@@ -946,7 +946,13 @@
       "team1": "RC Deportivo La Coruña",
       "team2": "Levante UD",
       "date": "2026-10-16",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "RCD Espanyol de Barcelona",

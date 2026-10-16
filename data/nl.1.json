@@ -868,7 +868,13 @@
       "team1": "SC Heerenveen",
       "team2": "SBV Excelsior",
       "date": "2026-10-16",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "ADO Den Haag",
