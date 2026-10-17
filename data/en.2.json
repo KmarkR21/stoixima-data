@@ -1444,19 +1444,37 @@
       "team1": "Millwall FC",
       "team2": "Lincoln City FC",
       "date": "2026-10-17",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Middlesbrough FC",
       "team2": "Cardiff City FC",
       "date": "2026-10-17",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Watford FC",
       "team2": "Charlton Athletic FC",
       "date": "2026-10-17",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Norwich City FC",
