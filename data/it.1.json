@@ -748,7 +748,13 @@
       "team1": "Bologna FC 1909",
       "team2": "FC Internazionale Milano",
       "date": "2026-10-17",
-      "time": "16:00"
+      "time": "16:00",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "AS Roma",

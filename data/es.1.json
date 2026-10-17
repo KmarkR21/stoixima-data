@@ -982,7 +982,13 @@
       "team1": "Real Betis Balompié",
       "team2": "FC Barcelona",
       "date": "2026-10-17",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
       "team1": "Valencia CF",

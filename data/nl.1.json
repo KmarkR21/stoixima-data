@@ -892,7 +892,13 @@
       "team1": "Telstar 1963",
       "team2": "Feyenoord Rotterdam",
       "date": "2026-10-17",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          3,
+          4
+        ]
+      }
     },
     {
       "team1": "Sparta Rotterdam",

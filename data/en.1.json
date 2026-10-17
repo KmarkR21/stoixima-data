@@ -772,7 +772,13 @@
       "team1": "Newcastle United FC",
       "team2": "Aston Villa FC",
       "date": "2026-10-17",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "AFC Bournemouth",

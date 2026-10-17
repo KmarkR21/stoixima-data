@@ -616,7 +616,13 @@
       "team1": "FC Bayern München",
       "team2": "RB Leipzig",
       "date": "2026-10-17",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          6,
+          1
+        ]
+      }
     },
     {
       "team1": "Bayer 04 Leverkusen",

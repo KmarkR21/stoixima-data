@@ -664,7 +664,13 @@
       "team1": "RC Strasbourg Alsace",
       "team2": "Paris Saint-Germain FC",
       "date": "2026-10-17",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "ES Troyes AC",
