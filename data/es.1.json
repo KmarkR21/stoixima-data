@@ -994,7 +994,13 @@
       "team1": "Valencia CF",
       "team2": "Athletic Club",
       "date": "2026-10-17",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "CA Osasuna",

@@ -904,7 +904,13 @@
       "team1": "Sparta Rotterdam",
       "team2": "Willem II Tilburg",
       "date": "2026-10-17",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "PEC Zwolle",

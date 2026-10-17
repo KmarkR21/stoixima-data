@@ -676,13 +676,25 @@
       "team1": "ES Troyes AC",
       "team2": "Racing Club de Lens",
       "date": "2026-10-17",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Lille OSC",
       "team2": "Stade Brestois 29",
       "date": "2026-10-17",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Angers SCO",
