@@ -724,25 +724,49 @@
       "team1": "Everton FC",
       "team2": "Chelsea FC",
       "date": "2026-10-17",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Fulham FC",
       "team2": "Hull City AFC",
       "date": "2026-10-17",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Manchester City FC",
       "team2": "Ipswich Town FC",
       "date": "2026-10-17",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Brentford FC",
       "team2": "Liverpool FC",
       "date": "2026-10-17",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Newcastle United FC",

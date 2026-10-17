@@ -958,13 +958,25 @@
       "team1": "RCD Espanyol de Barcelona",
       "team2": "Club Atlético de Madrid",
       "date": "2026-10-17",
-      "time": "12:00"
+      "time": "12:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Villarreal CF",
       "team2": "Elche CF",
       "date": "2026-10-17",
-      "time": "14:15"
+      "time": "14:15",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Real Betis Balompié",

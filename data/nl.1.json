@@ -880,7 +880,13 @@
       "team1": "ADO Den Haag",
       "team2": "PSV",
       "date": "2026-10-17",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Telstar 1963",

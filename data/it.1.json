@@ -640,55 +640,109 @@
       "team1": "Como 1907",
       "team2": "AS Roma",
       "date": "2026-10-11",
-      "time": "10:30"
+      "time": "10:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "US Lecce",
       "team2": "Bologna FC 1909",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "SS Lazio",
       "team2": "AC Monza",
       "date": "2026-10-11",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "US Sassuolo Calcio",
       "team2": "AC Milan",
       "date": "2026-10-11",
-      "time": "16:00"
+      "time": "16:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Cagliari Calcio",
       "team2": "Juventus FC",
       "date": "2026-10-11",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Atalanta BC",
       "team2": "Venezia FC",
       "date": "2026-10-12",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Torino FC",
       "team2": "Udinese Calcio",
       "date": "2026-10-12",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Frosinone Calcio",
       "team2": "US Sassuolo Calcio",
       "date": "2026-10-16",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
       "team1": "Venezia FC",
       "team2": "SSC Napoli",
       "date": "2026-10-17",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Bologna FC 1909",
