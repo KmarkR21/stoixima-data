@@ -808,7 +808,13 @@
       "team1": "Juventus FC",
       "team2": "SS Lazio",
       "date": "2026-10-18",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "AC Monza",

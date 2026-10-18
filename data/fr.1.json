@@ -748,7 +748,13 @@
       "team1": "Olympique Lyonnais",
       "team2": "OGC Nice",
       "date": "2026-10-18",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Stade Brestois 29",
