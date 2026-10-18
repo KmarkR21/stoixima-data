@@ -916,7 +916,13 @@
       "team1": "PEC Zwolle",
       "team2": "Go Ahead Eagles",
       "date": "2026-10-18",
-      "time": "10:15"
+      "time": "10:15",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "SC Cambuur-Leeuwarden",

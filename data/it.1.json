@@ -772,7 +772,13 @@
       "team1": "Udinese Calcio",
       "team2": "US Lecce",
       "date": "2026-10-18",
-      "time": "10:30"
+      "time": "10:30",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "ACF Fiorentina",
