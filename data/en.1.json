@@ -784,19 +784,37 @@
       "team1": "AFC Bournemouth",
       "team2": "Sunderland AFC",
       "date": "2026-10-18",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Leeds United FC",
       "team2": "Manchester United FC",
       "date": "2026-10-18",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Brighton & Hove Albion FC",
       "team2": "Crystal Palace FC",
       "date": "2026-10-18",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          5,
+          0
+        ]
+      }
     },
     {
       "team1": "Nottingham Forest FC",

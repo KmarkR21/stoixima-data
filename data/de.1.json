@@ -628,7 +628,13 @@
       "team1": "Bayer 04 Leverkusen",
       "team2": "SC Freiburg",
       "date": "2026-10-18",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Borussia Mönchengladbach",

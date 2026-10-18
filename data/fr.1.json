@@ -700,7 +700,13 @@
       "team1": "Angers SCO",
       "team2": "Olympique de Marseille",
       "date": "2026-10-18",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
       "team1": "FC Lorient",

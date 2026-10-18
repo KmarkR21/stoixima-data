@@ -1006,13 +1006,25 @@
       "team1": "CA Osasuna",
       "team2": "Real Racing Club de Santander",
       "date": "2026-10-18",
-      "time": "12:00"
+      "time": "12:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "RC Celta de Vigo",
       "team2": "Deportivo Alavés",
       "date": "2026-10-18",
-      "time": "14:15"
+      "time": "14:15",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Málaga CF",
