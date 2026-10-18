@@ -640,7 +640,13 @@
       "team1": "Borussia Mönchengladbach",
       "team2": "TSG 1899 Hoffenheim",
       "date": "2026-10-18",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "VfB Stuttgart",

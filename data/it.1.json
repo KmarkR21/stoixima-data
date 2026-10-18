@@ -796,7 +796,13 @@
       "team1": "AC Milan",
       "team2": "Atalanta BC",
       "date": "2026-10-18",
-      "time": "16:00"
+      "time": "16:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Juventus FC",

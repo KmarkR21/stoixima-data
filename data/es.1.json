@@ -1030,7 +1030,13 @@
       "team1": "Málaga CF",
       "team2": "Real Sociedad de Fútbol",
       "date": "2026-10-18",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
       "team1": "Real Madrid CF",

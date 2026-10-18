@@ -952,13 +952,25 @@
       "team1": "FC Twente '65",
       "team2": "FC Utrecht",
       "date": "2026-10-18",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "NEC",
       "team2": "Fortuna Sittard",
       "date": "2026-10-18",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Go Ahead Eagles",

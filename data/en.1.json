@@ -820,7 +820,13 @@
       "team1": "Nottingham Forest FC",
       "team2": "Arsenal FC",
       "date": "2026-10-18",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Tottenham Hotspur FC",
