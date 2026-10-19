@@ -820,7 +820,13 @@
       "team1": "AC Monza",
       "team2": "Cagliari Calcio",
       "date": "2026-10-19",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "Parma Calcio 1913",
