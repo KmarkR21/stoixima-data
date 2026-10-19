@@ -1054,7 +1054,13 @@
       "team1": "Getafe CF",
       "team2": "Rayo Vallecano de Madrid",
       "date": "2026-10-19",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Levante UD",

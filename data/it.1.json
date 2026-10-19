@@ -832,7 +832,13 @@
       "team1": "Parma Calcio 1913",
       "team2": "Torino FC",
       "date": "2026-10-19",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Torino FC",

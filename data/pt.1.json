@@ -856,7 +856,13 @@
       "team1": "Sporting Clube de Braga",
       "team2": "Gil Vicente FC",
       "date": "2026-10-19",
-      "time": "19:15"
+      "time": "19:15",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Vitória SC",

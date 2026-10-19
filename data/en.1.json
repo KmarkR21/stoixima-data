@@ -832,7 +832,13 @@
       "team1": "Tottenham Hotspur FC",
       "team2": "Coventry City FC",
       "date": "2026-10-19",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Ipswich Town FC",
