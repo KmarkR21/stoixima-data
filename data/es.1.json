@@ -1078,7 +1078,13 @@
       "team1": "Deportivo Alavés",
       "team2": "Málaga CF",
       "date": "2026-10-23",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Rayo Vallecano de Madrid",

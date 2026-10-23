@@ -844,7 +844,13 @@
       "team1": "Torino FC",
       "team2": "AC Monza",
       "date": "2026-10-23",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Cagliari Calcio",

@@ -976,7 +976,13 @@
       "team1": "Go Ahead Eagles",
       "team2": "Telstar 1963",
       "date": "2026-10-23",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "FC Utrecht",

@@ -844,7 +844,13 @@
       "team1": "Ipswich Town FC",
       "team2": "Nottingham Forest FC",
       "date": "2026-10-23",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Aston Villa FC",

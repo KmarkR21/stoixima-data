@@ -868,7 +868,13 @@
       "team1": "Vitória SC",
       "team2": "CS Marítimo",
       "date": "2026-10-23",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          5,
+          0
+        ]
+      }
     },
     {
       "team1": "CF Estrela da Amadora",

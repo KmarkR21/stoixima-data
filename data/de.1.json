@@ -652,7 +652,13 @@
       "team1": "VfB Stuttgart",
       "team2": "Borussia Mönchengladbach",
       "date": "2026-10-23",
-      "time": "18:30"
+      "time": "18:30",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "1. FSV Mainz 05",
