@@ -1588,7 +1588,13 @@
       "team1": "Bolton Wanderers FC",
       "team2": "Middlesbrough FC",
       "date": "2026-10-23",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "team1": "Sheffield United FC",
