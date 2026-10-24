@@ -1096,7 +1096,13 @@
       "team1": "Real Racing Club de Santander",
       "team2": "RCD Espanyol de Barcelona",
       "date": "2026-10-24",
-      "time": "14:15"
+      "time": "14:15",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Valencia CF",
