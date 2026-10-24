@@ -1612,7 +1612,13 @@
       "team1": "Portsmouth FC",
       "team2": "Millwall FC",
       "date": "2026-10-24",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Cardiff City FC",
@@ -1624,7 +1630,13 @@
       "team1": "Queens Park Rangers FC",
       "team2": "Swansea City AFC",
       "date": "2026-10-24",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          5,
+          0
+        ]
+      }
     },
     {
       "team1": "Stoke City FC",
@@ -1642,7 +1654,13 @@
       "team1": "Lincoln City FC",
       "team2": "Burnley FC",
       "date": "2026-10-24",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "West Ham United FC",
@@ -1654,13 +1672,25 @@
       "team1": "Blackburn Rovers FC",
       "team2": "Wrexham AFC",
       "date": "2026-10-24",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Wolverhampton Wanderers FC",
       "team2": "Watford FC",
       "date": "2026-10-24",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Sheffield United FC",
