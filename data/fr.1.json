@@ -784,7 +784,13 @@
       "team1": "AS Monaco FC",
       "team2": "Lille OSC",
       "date": "2026-10-25",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Olympique de Marseille",

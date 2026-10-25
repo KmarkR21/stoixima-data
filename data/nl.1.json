@@ -1024,19 +1024,37 @@
       "team1": "Fortuna Sittard",
       "team2": "SBV Excelsior",
       "date": "2026-10-25",
-      "time": "11:15"
+      "time": "11:15",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "NEC",
       "team2": "FC Groningen",
       "date": "2026-10-25",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "PSV",
       "team2": "Feyenoord Rotterdam",
       "date": "2026-10-25",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Sparta Rotterdam",

@@ -736,7 +736,13 @@
       "team1": "TSG 1899 Hoffenheim",
       "team2": "Bayer 04 Leverkusen",
       "date": "2026-10-25",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "SC Freiburg",

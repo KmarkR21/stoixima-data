@@ -904,19 +904,37 @@
       "team1": "FC Internazionale Milano",
       "team2": "ACF Fiorentina",
       "date": "2026-10-25",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Atalanta BC",
       "team2": "Frosinone Calcio",
       "date": "2026-10-25",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          4,
+          4
+        ]
+      }
     },
     {
       "team1": "Genoa CFC",
       "team2": "Venezia FC",
       "date": "2026-10-25",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "US Lecce",

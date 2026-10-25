@@ -1138,13 +1138,25 @@
       "team1": "Athletic Club",
       "team2": "Getafe CF",
       "date": "2026-10-25",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "RC Celta de Vigo",
       "team2": "Real Betis Balompié",
       "date": "2026-10-25",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Real Sociedad de Fútbol",
