@@ -886,13 +886,7 @@
       "team1": "FC Alverca",
       "team2": "FC Arouca",
       "date": "2026-10-24",
-      "time": "17:00",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
+      "time": "17:00"
     },
     {
       "team1": "Gil Vicente FC",
