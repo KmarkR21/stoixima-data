@@ -1162,7 +1162,13 @@
       "team1": "Real Sociedad de Fútbol",
       "team2": "Levante UD",
       "date": "2026-10-25",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Barcelona",

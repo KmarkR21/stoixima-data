@@ -796,31 +796,61 @@
       "team1": "Olympique de Marseille",
       "team2": "Le Havre AC",
       "date": "2026-10-25",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
       "team1": "Stade Rennais FC 1901",
       "team2": "RC Strasbourg Alsace",
       "date": "2026-10-25",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Angers SCO",
       "team2": "FC Lorient",
       "date": "2026-10-25",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Toulouse FC",
       "team2": "ES Troyes AC",
       "date": "2026-10-25",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "AJ Auxerre",
       "team2": "Le Mans FC",
       "date": "2026-10-25",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Paris Saint-Germain FC",

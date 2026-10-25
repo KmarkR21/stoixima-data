@@ -1060,7 +1060,13 @@
       "team1": "Sparta Rotterdam",
       "team2": "AFC Ajax",
       "date": "2026-10-25",
-      "time": "15:45"
+      "time": "15:45",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "AZ",

@@ -940,7 +940,13 @@
       "team1": "US Lecce",
       "team2": "Juventus FC",
       "date": "2026-10-25",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Udinese Calcio",

@@ -916,19 +916,37 @@
       "team1": "GD Estoril Praia",
       "team2": "Moreirense FC",
       "date": "2026-10-25",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Rio Ave FC",
       "team2": "FC Famalicão",
       "date": "2026-10-25",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
       "team1": "CD Nacional",
       "team2": "Sporting Clube de Braga",
       "date": "2026-10-25",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Sporting Clube de Portugal",

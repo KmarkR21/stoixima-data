@@ -952,7 +952,13 @@
       "team1": "Sunderland AFC",
       "team2": "Leeds United FC",
       "date": "2026-10-25",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Chelsea FC",
