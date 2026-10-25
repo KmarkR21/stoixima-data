@@ -988,19 +988,37 @@
       "team1": "FC Utrecht",
       "team2": "PEC Zwolle",
       "date": "2026-10-24",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Willem II Tilburg",
       "team2": "SC Cambuur-Leeuwarden",
       "date": "2026-10-24",
-      "time": "16:45"
+      "time": "16:45",
+      "score": {
+        "ft": [
+          1,
+          6
+        ]
+      }
     },
     {
       "team1": "ADO Den Haag",
       "team2": "SC Heerenveen",
       "date": "2026-10-24",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "Fortuna Sittard",

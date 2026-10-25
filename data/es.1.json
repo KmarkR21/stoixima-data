@@ -1090,25 +1090,49 @@
       "team1": "Rayo Vallecano de Madrid",
       "team2": "Elche CF",
       "date": "2026-10-24",
-      "time": "12:00"
+      "time": "12:00",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "Real Racing Club de Santander",
       "team2": "RCD Espanyol de Barcelona",
       "date": "2026-10-24",
-      "time": "14:15"
+      "time": "14:15",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Valencia CF",
       "team2": "Villarreal CF",
       "date": "2026-10-24",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Club Atlético de Madrid",
       "team2": "RC Deportivo La Coruña",
       "date": "2026-10-24",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Athletic Club",

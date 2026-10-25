@@ -664,37 +664,73 @@
       "team1": "1. FSV Mainz 05",
       "team2": "SV Werder Bremen",
       "date": "2026-10-24",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "1. FC Köln",
       "team2": "FC Schalke 04",
       "date": "2026-10-24",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "RB Leipzig",
       "team2": "SV 07 Elversberg",
       "date": "2026-10-24",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "Hamburger SV",
       "date": "2026-10-24",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "FC Augsburg",
       "team2": "1. FC Union Berlin",
       "date": "2026-10-24",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Borussia Dortmund",
       "team2": "Eintracht Frankfurt",
       "date": "2026-10-24",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "TSG 1899 Hoffenheim",

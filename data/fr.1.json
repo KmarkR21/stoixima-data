@@ -772,7 +772,13 @@
       "team1": "Racing Club de Lens",
       "team2": "Paris FC",
       "date": "2026-10-24",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "AS Monaco FC",
