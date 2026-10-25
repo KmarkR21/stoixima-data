@@ -880,19 +880,37 @@
       "team1": "CF Estrela da Amadora",
       "team2": "Casa Pia AC",
       "date": "2026-10-24",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "FC Alverca",
       "team2": "FC Arouca",
       "date": "2026-10-24",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Gil Vicente FC",
       "team2": "FC Porto",
       "date": "2026-10-24",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "GD Estoril Praia",
