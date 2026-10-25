@@ -1072,7 +1072,13 @@
       "team1": "AZ",
       "team2": "FC Twente '65",
       "date": "2026-10-25",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Feyenoord Rotterdam",

@@ -952,7 +952,13 @@
       "team1": "Sporting Clube de Portugal",
       "team2": "Académico de Viseu FC",
       "date": "2026-10-25",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "CD Santa Clara",

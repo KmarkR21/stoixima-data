@@ -952,7 +952,13 @@
       "team1": "Udinese Calcio",
       "team2": "AC Milan",
       "date": "2026-10-25",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "US Sassuolo Calcio",

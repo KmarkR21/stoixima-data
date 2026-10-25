@@ -1174,7 +1174,13 @@
       "team1": "FC Barcelona",
       "team2": "Real Madrid CF",
       "date": "2026-10-25",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Sevilla FC",
