@@ -1138,49 +1138,25 @@
       "team1": "Athletic Club",
       "team2": "Getafe CF",
       "date": "2026-10-25",
-      "time": "13:00",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
+      "time": "13:00"
     },
     {
       "team1": "RC Celta de Vigo",
       "team2": "Real Betis Balompié",
       "date": "2026-10-25",
-      "time": "15:15",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
+      "time": "15:15"
     },
     {
       "team1": "Real Sociedad de Fútbol",
       "team2": "Levante UD",
       "date": "2026-10-25",
-      "time": "17:30",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
+      "time": "17:30"
     },
     {
       "team1": "FC Barcelona",
       "team2": "Real Madrid CF",
       "date": "2026-10-25",
-      "time": "20:00",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
+      "time": "20:00"
     },
     {
       "team1": "Sevilla FC",
