@@ -856,7 +856,13 @@
       "team1": "Paris Saint-Germain FC",
       "team2": "Olympique Lyonnais",
       "date": "2026-10-26",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Le Havre AC",

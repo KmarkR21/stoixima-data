@@ -964,7 +964,13 @@
       "team1": "CD Santa Clara",
       "team2": "Sport Lisboa e Benfica",
       "date": "2026-10-26",
-      "time": "18:45"
+      "time": "18:45",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Casa Pia AC",

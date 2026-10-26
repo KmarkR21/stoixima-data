@@ -1186,7 +1186,13 @@
       "team1": "Sevilla FC",
       "team2": "CA Osasuna",
       "date": "2026-10-26",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Villarreal CF",

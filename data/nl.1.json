@@ -1024,61 +1024,31 @@
       "team1": "Fortuna Sittard",
       "team2": "SBV Excelsior",
       "date": "2026-10-25",
-      "time": "11:15",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
+      "time": "11:15"
     },
     {
       "team1": "NEC",
       "team2": "FC Groningen",
       "date": "2026-10-25",
-      "time": "13:30",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
+      "time": "13:30"
     },
     {
       "team1": "PSV",
       "team2": "Feyenoord Rotterdam",
       "date": "2026-10-25",
-      "time": "13:30",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
+      "time": "13:30"
     },
     {
       "team1": "Sparta Rotterdam",
       "team2": "AFC Ajax",
       "date": "2026-10-25",
-      "time": "15:45",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
+      "time": "15:45"
     },
     {
       "team1": "AZ",
       "team2": "FC Twente '65",
       "date": "2026-10-25",
-      "time": "19:00",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
+      "time": "19:00"
     },
     {
       "team1": "Feyenoord Rotterdam",
