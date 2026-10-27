@@ -871,28 +871,16 @@
       "time": "18:00"
     },
     {
+      "team1": "OGC Nice",
+      "team2": "Stade Rennais FC 1901",
+      "date": "2026-10-30",
+      "time": "18:00"
+    },
+    {
       "team1": "Lille OSC",
       "team2": "Racing Club de Lens",
       "date": "2026-10-30",
       "time": "20:05"
-    },
-    {
-      "team1": "OGC Nice",
-      "team2": "Stade Rennais FC 1901",
-      "date": "2026-10-31",
-      "time": "16:15"
-    },
-    {
-      "team1": "Olympique Lyonnais",
-      "team2": "Angers SCO",
-      "date": "2026-10-31",
-      "time": "19:45"
-    },
-    {
-      "team1": "FC Lorient",
-      "team2": "Stade Brestois 29",
-      "date": "2026-10-31",
-      "time": "19:45"
     },
     {
       "team1": "ES Troyes AC",
@@ -907,6 +895,12 @@
       "time": "14:00"
     },
     {
+      "team1": "Olympique Lyonnais",
+      "team2": "Angers SCO",
+      "date": "2026-11-01",
+      "time": "16:15"
+    },
+    {
       "team1": "Paris FC",
       "team2": "AS Monaco FC",
       "date": "2026-11-01",
@@ -916,6 +910,12 @@
       "team1": "Olympique de Marseille",
       "team2": "Toulouse FC",
       "date": "2026-11-01",
+      "time": "19:45"
+    },
+    {
+      "team1": "FC Lorient",
+      "team2": "Stade Brestois 29",
+      "date": "2026-11-02",
       "time": "19:45"
     },
     {
