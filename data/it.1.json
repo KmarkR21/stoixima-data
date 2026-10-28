@@ -1000,31 +1000,61 @@
       "team1": "AC Milan",
       "team2": "Bologna FC 1909",
       "date": "2026-10-28",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
       "team1": "Venezia FC",
       "team2": "FC Internazionale Milano",
       "date": "2026-10-28",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Parma Calcio 1913",
       "team2": "Udinese Calcio",
       "date": "2026-10-28",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Genoa CFC",
       "team2": "Juventus FC",
       "date": "2026-10-28",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "AC Monza",
       "team2": "SSC Napoli",
       "date": "2026-10-28",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
       "team1": "Frosinone Calcio",
