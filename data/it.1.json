@@ -1060,13 +1060,25 @@
       "team1": "Frosinone Calcio",
       "team2": "US Lecce",
       "date": "2026-10-29",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
       "team1": "ACF Fiorentina",
       "team2": "Atalanta BC",
       "date": "2026-10-29",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Bologna FC 1909",
