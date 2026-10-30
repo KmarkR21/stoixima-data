@@ -760,7 +760,13 @@
       "team1": "SV 07 Elversberg",
       "team2": "1. FSV Mainz 05",
       "date": "2026-10-30",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "Borussia Mönchengladbach",

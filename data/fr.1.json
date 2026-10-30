@@ -868,19 +868,37 @@
       "team1": "Le Havre AC",
       "team2": "Paris Saint-Germain FC",
       "date": "2026-10-30",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "team1": "OGC Nice",
       "team2": "Stade Rennais FC 1901",
       "date": "2026-10-30",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          5,
+          2
+        ]
+      }
     },
     {
       "team1": "Lille OSC",
       "team2": "Racing Club de Lens",
       "date": "2026-10-30",
-      "time": "20:05"
+      "time": "20:05",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "ES Troyes AC",

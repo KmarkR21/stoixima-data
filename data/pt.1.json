@@ -976,7 +976,13 @@
       "team1": "Casa Pia AC",
       "team2": "Sporting Clube de Portugal",
       "date": "2026-10-30",
-      "time": "20:15"
+      "time": "20:15",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Moreirense FC",
