@@ -841,12 +841,6 @@
       }
     },
     {
-      "team1": "Rayo Vallecano de Madrid",
-      "team2": "Athletic Club",
-      "date": "2026-10-10",
-      "time": "12:00"
-    },
-    {
       "team1": "Deportivo Alavés",
       "team2": "Club Atlético de Madrid",
       "date": "2026-10-10",
@@ -1493,6 +1487,12 @@
       "team2": "Levante UD",
       "date": "2026-12-06",
       "time": "00:00"
+    },
+    {
+      "team1": "Rayo Vallecano de Madrid",
+      "team2": "Athletic Club",
+      "date": "2026-12-09",
+      "time": "19:00"
     },
     {
       "team1": "RCD Espanyol de Barcelona",
