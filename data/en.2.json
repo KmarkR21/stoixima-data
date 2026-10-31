@@ -1738,19 +1738,37 @@
       "team1": "Stoke City FC",
       "team2": "Preston North End FC",
       "date": "2026-10-31",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Norwich City FC",
       "team2": "Watford FC",
       "date": "2026-10-31",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Lincoln City FC",
       "team2": "Birmingham City FC",
       "date": "2026-10-31",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Wolverhampton Wanderers FC",
@@ -1762,7 +1780,13 @@
       "team1": "West Ham United FC",
       "team2": "West Bromwich Albion FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Swansea City AFC",

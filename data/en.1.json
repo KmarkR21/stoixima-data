@@ -964,7 +964,13 @@
       "team1": "Chelsea FC",
       "team2": "Manchester United FC",
       "date": "2026-10-31",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Manchester City FC",

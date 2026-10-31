@@ -1204,7 +1204,13 @@
       "team1": "Levante UD",
       "team2": "Club Atlético de Madrid",
       "date": "2026-10-31",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Rayo Vallecano de Madrid",

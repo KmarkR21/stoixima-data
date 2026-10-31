@@ -1084,7 +1084,13 @@
       "team1": "Bologna FC 1909",
       "team2": "AC Monza",
       "date": "2026-10-31",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Udinese Calcio",
