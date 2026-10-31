@@ -832,7 +832,13 @@
       "team1": "FC Bayern München",
       "team2": "Borussia Dortmund",
       "date": "2026-10-31",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "1. FC Union Berlin",

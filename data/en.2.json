@@ -1774,7 +1774,13 @@
       "team1": "Wolverhampton Wanderers FC",
       "team2": "Cardiff City FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "West Ham United FC",
@@ -1792,37 +1798,73 @@
       "team1": "Swansea City AFC",
       "team2": "Blackburn Rovers FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "Bolton Wanderers FC",
       "team2": "Bristol City FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "Middlesbrough FC",
       "team2": "Charlton Athletic FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Burnley FC",
       "team2": "Portsmouth FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Millwall FC",
       "team2": "Derby County FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "Southampton FC",
       "team2": "Queens Park Rangers FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "team1": "Queens Park Rangers FC",

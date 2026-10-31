@@ -976,37 +976,73 @@
       "team1": "Manchester City FC",
       "team2": "Brighton & Hove Albion FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "AFC Bournemouth",
       "team2": "Leeds United FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Coventry City FC",
       "team2": "Sunderland AFC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Hull City AFC",
       "team2": "Ipswich Town FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Brentford FC",
       "team2": "Nottingham Forest FC",
       "date": "2026-10-31",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Tottenham Hotspur FC",
       "team2": "Crystal Palace FC",
       "date": "2026-10-31",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Aston Villa FC",

@@ -1096,7 +1096,13 @@
       "team1": "Udinese Calcio",
       "team2": "AS Roma",
       "date": "2026-10-31",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
       "team1": "AC Milan",

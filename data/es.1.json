@@ -1216,13 +1216,25 @@
       "team1": "Rayo Vallecano de Madrid",
       "team2": "RC Celta de Vigo",
       "date": "2026-10-31",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Real Betis Balompié",
       "team2": "Málaga CF",
       "date": "2026-10-31",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Barcelona",

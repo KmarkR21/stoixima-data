@@ -988,7 +988,13 @@
       "team1": "Moreirense FC",
       "team2": "CF Estrela da Amadora",
       "date": "2026-10-31",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Porto",
