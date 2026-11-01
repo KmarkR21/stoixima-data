@@ -1000,7 +1000,13 @@
       "team1": "FC Porto",
       "team2": "GD Estoril Praia",
       "date": "2026-10-31",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "FC Arouca",

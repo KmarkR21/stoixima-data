@@ -904,7 +904,13 @@
       "team1": "ES Troyes AC",
       "team2": "Le Mans FC",
       "date": "2026-10-31",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "RC Strasbourg Alsace",

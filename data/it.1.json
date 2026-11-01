@@ -1108,7 +1108,13 @@
       "team1": "AC Milan",
       "team2": "FC Internazionale Milano",
       "date": "2026-10-31",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Como 1907",
