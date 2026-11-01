@@ -1204,25 +1204,49 @@
       "team1": "Levante UD",
       "team2": "Club Atlético de Madrid",
       "date": "2026-10-31",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Rayo Vallecano de Madrid",
       "team2": "RC Celta de Vigo",
       "date": "2026-10-31",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Real Betis Balompié",
       "team2": "Málaga CF",
       "date": "2026-10-31",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Barcelona",
       "team2": "Deportivo Alavés",
       "date": "2026-10-31",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          6,
+          1
+        ]
+      }
     },
     {
       "team1": "Getafe CF",

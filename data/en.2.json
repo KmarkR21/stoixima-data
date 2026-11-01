@@ -1732,7 +1732,13 @@
       "team1": "Sheffield United FC",
       "team2": "Wrexham AFC",
       "date": "2026-10-30",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Stoke City FC",
