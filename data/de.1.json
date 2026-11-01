@@ -856,7 +856,13 @@
       "team1": "Eintracht Frankfurt",
       "team2": "Hamburger SV",
       "date": "2026-11-01",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Hamburger SV",

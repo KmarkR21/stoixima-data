@@ -1012,19 +1012,37 @@
       "team1": "FC Arouca",
       "team2": "CD Nacional",
       "date": "2026-11-01",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "CS Marítimo",
       "team2": "CD Santa Clara",
       "date": "2026-11-01",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Académico de Viseu FC",
       "team2": "Rio Ave FC",
       "date": "2026-11-01",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Sporting Clube de Braga",

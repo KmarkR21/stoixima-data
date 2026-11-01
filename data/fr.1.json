@@ -928,19 +928,37 @@
       "team1": "Olympique Lyonnais",
       "team2": "Angers SCO",
       "date": "2026-11-01",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Paris FC",
       "team2": "AS Monaco FC",
       "date": "2026-11-01",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Olympique de Marseille",
       "team2": "Toulouse FC",
       "date": "2026-11-01",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Lorient",

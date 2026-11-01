@@ -1264,13 +1264,25 @@
       "team1": "Real Racing Club de Santander",
       "team2": "Real Madrid CF",
       "date": "2026-11-01",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "Elche CF",
       "team2": "Valencia CF",
       "date": "2026-11-01",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Athletic Club",

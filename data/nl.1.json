@@ -1180,7 +1180,13 @@
       "team1": "FC Groningen",
       "team2": "Sparta Rotterdam",
       "date": "2026-11-01",
-      "time": "15:45"
+      "time": "15:45",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "Willem II Tilburg",
