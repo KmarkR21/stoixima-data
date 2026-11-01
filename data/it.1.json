@@ -1120,19 +1120,37 @@
       "team1": "Como 1907",
       "team2": "Venezia FC",
       "date": "2026-11-01",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Frosinone Calcio",
       "team2": "Torino FC",
       "date": "2026-11-01",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "SS Lazio",
       "team2": "Cagliari Calcio",
       "date": "2026-11-01",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "US Lecce",

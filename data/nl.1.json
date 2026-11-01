@@ -1144,19 +1144,37 @@
       "team1": "PEC Zwolle",
       "team2": "ADO Den Haag",
       "date": "2026-11-01",
-      "time": "11:15"
+      "time": "11:15",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Telstar 1963",
       "team2": "FC Utrecht",
       "date": "2026-11-01",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
       "team1": "SBV Excelsior",
       "team2": "FC Twente '65",
       "date": "2026-11-01",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          0,
+          9
+        ]
+      }
     },
     {
       "team1": "FC Groningen",

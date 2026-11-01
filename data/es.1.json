@@ -1252,7 +1252,13 @@
       "team1": "Getafe CF",
       "team2": "Sevilla FC",
       "date": "2026-11-01",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Real Racing Club de Santander",

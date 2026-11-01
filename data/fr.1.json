@@ -916,7 +916,13 @@
       "team1": "RC Strasbourg Alsace",
       "team2": "AJ Auxerre",
       "date": "2026-11-01",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
       "team1": "Olympique Lyonnais",
