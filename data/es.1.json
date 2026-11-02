@@ -1288,7 +1288,13 @@
       "team1": "Athletic Club",
       "team2": "Real Sociedad de Fútbol",
       "date": "2026-11-01",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "RC Deportivo La Coruña",

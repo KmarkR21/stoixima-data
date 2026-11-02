@@ -1048,7 +1048,13 @@
       "team1": "Sporting Clube de Braga",
       "team2": "FC Famalicão",
       "date": "2026-11-01",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Sport Lisboa e Benfica",
