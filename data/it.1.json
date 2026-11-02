@@ -1180,7 +1180,13 @@
       "team1": "US Sassuolo Calcio",
       "team2": "ACF Fiorentina",
       "date": "2026-11-02",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
       "team1": "Atalanta BC",

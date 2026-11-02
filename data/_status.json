@@ -1,16 +1,15 @@
 {
-  "last_run_utc": "2026-11-02T09:01:27.504907Z",
+  "last_run_utc": "2026-11-02T20:03:13.123281Z",
   "season": "2026",
   "summary": [
+    "en.1: 380 αγώνες (89 με σκορ)",
+    "en.2: 552 αγώνες (156 με σκορ)",
     "es.1: 380 αγώνες (108 με σκορ)",
     "de.1: 306 αγώνες (72 με σκορ)",
-    "it.1: 380 αγώνες (98 με σκορ)",
+    "it.1: 380 αγώνες (99 με σκορ)",
     "fr.1: 306 αγώνες (80 με σκορ)",
     "nl.1: 306 αγώνες (99 με σκορ)",
     "pt.1: 306 αγώνες (88 με σκορ)"
   ],
-  "errors": [
-    "en.1: HTTP 500 {\"message\":\"This is my fault. Feel free to file a complain to daniel@football-data.org\",\"error\":500}",
-    "en.2: HTTP 500 {\"message\":\"This is my fault. Feel free to file a complain to daniel@football-data.org\",\"error\":500}"
-  ]
+  "errors": []
 }
