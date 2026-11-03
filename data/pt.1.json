@@ -1060,13 +1060,25 @@
       "team1": "Sport Lisboa e Benfica",
       "team2": "FC Alverca",
       "date": "2026-11-02",
-      "time": "20:15"
+      "time": "20:15",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Gil Vicente FC",
       "team2": "Vitória SC",
       "date": "2026-11-02",
-      "time": "20:15"
+      "time": "20:15",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "FC Famalicão",

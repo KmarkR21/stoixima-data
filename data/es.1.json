@@ -1300,7 +1300,13 @@
       "team1": "RC Deportivo La Coruña",
       "team2": "CA Osasuna",
       "date": "2026-11-02",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Sevilla FC",

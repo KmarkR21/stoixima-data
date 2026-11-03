@@ -964,7 +964,13 @@
       "team1": "FC Lorient",
       "team2": "Stade Brestois 29",
       "date": "2026-11-02",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Toulouse FC",

@@ -1192,7 +1192,13 @@
       "team1": "Atalanta BC",
       "team2": "Parma Calcio 1913",
       "date": "2026-11-02",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "Venezia FC",
