@@ -1453,12 +1453,6 @@
       "time": "15:00"
     },
     {
-      "team1": "Nottingham Forest FC",
-      "team2": "Everton FC",
-      "date": "2026-12-19",
-      "time": "15:00"
-    },
-    {
       "team1": "Manchester City FC",
       "team2": "Hull City AFC",
       "date": "2026-12-19",
@@ -1479,6 +1473,12 @@
     {
       "team1": "Brighton & Hove Albion FC",
       "team2": "Ipswich Town FC",
+      "date": "2026-12-20",
+      "time": "14:00"
+    },
+    {
+      "team1": "Nottingham Forest FC",
+      "team2": "Everton FC",
       "date": "2026-12-20",
       "time": "14:00"
     },
