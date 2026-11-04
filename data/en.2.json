@@ -1984,19 +1984,37 @@
       "team1": "Cardiff City FC",
       "team2": "West Ham United FC",
       "date": "2026-11-04",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
       "team1": "Wrexham AFC",
       "team2": "Middlesbrough FC",
       "date": "2026-11-04",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Bristol City FC",
       "team2": "Wolverhampton Wanderers FC",
       "date": "2026-11-04",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Derby County FC",

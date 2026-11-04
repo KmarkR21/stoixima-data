@@ -1191,110 +1191,110 @@
     {
       "team1": "Sporting Clube de Portugal",
       "team2": "CS Marítimo",
-      "date": "2026-12-06",
-      "time": "00:00"
+      "date": "2026-12-04",
+      "time": "20:15"
+    },
+    {
+      "team1": "CD Nacional",
+      "team2": "Sport Lisboa e Benfica",
+      "date": "2026-12-05",
+      "time": "15:30"
+    },
+    {
+      "team1": "CD Santa Clara",
+      "team2": "FC Porto",
+      "date": "2026-12-05",
+      "time": "18:00"
+    },
+    {
+      "team1": "Sporting Clube de Braga",
+      "team2": "FC Arouca",
+      "date": "2026-12-05",
+      "time": "20:30"
     },
     {
       "team1": "CF Estrela da Amadora",
       "team2": "Gil Vicente FC",
       "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Alverca",
-      "team2": "Moreirense FC",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "CD Santa Clara",
-      "team2": "FC Porto",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "CD Nacional",
-      "team2": "Sport Lisboa e Benfica",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "GD Estoril Praia",
-      "team2": "Vitória SC",
-      "date": "2026-12-06",
-      "time": "00:00"
+      "time": "15:30"
     },
     {
       "team1": "Rio Ave FC",
       "team2": "Casa Pia AC",
       "date": "2026-12-06",
-      "time": "00:00"
+      "time": "15:30"
     },
     {
-      "team1": "Sporting Clube de Braga",
-      "team2": "FC Arouca",
+      "team1": "GD Estoril Praia",
+      "team2": "Vitória SC",
       "date": "2026-12-06",
-      "time": "00:00"
+      "time": "18:00"
     },
     {
       "team1": "FC Famalicão",
       "team2": "Académico de Viseu FC",
       "date": "2026-12-06",
-      "time": "00:00"
+      "time": "20:30"
     },
     {
-      "team1": "CS Marítimo",
-      "team2": "Rio Ave FC",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "team1": "FC Alverca",
+      "team2": "Moreirense FC",
+      "date": "2026-12-07",
+      "time": "20:15"
     },
     {
       "team1": "Académico de Viseu FC",
       "team2": "FC Arouca",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "date": "2026-12-11",
+      "time": "20:15"
+    },
+    {
+      "team1": "GD Estoril Praia",
+      "team2": "CD Santa Clara",
+      "date": "2026-12-12",
+      "time": "15:30"
+    },
+    {
+      "team1": "CS Marítimo",
+      "team2": "Rio Ave FC",
+      "date": "2026-12-12",
+      "time": "18:00"
     },
     {
       "team1": "Gil Vicente FC",
       "team2": "Sporting Clube de Portugal",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "date": "2026-12-12",
+      "time": "20:30"
     },
     {
       "team1": "Casa Pia AC",
       "team2": "CD Nacional",
       "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Vitória SC",
-      "team2": "FC Alverca",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "time": "15:30"
     },
     {
       "team1": "Moreirense FC",
       "team2": "FC Famalicão",
       "date": "2026-12-13",
-      "time": "00:00"
+      "time": "15:30"
     },
     {
-      "team1": "GD Estoril Praia",
-      "team2": "CD Santa Clara",
+      "team1": "Vitória SC",
+      "team2": "FC Alverca",
       "date": "2026-12-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "Sport Lisboa e Benfica",
-      "team2": "Sporting Clube de Braga",
-      "date": "2026-12-13",
-      "time": "00:00"
+      "time": "18:00"
     },
     {
       "team1": "FC Porto",
       "team2": "CF Estrela da Amadora",
       "date": "2026-12-13",
-      "time": "00:00"
+      "time": "20:30"
+    },
+    {
+      "team1": "Sport Lisboa e Benfica",
+      "team2": "Sporting Clube de Braga",
+      "date": "2026-12-14",
+      "time": "20:15"
     },
     {
       "team1": "Rio Ave FC",
