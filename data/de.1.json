@@ -1027,382 +1027,382 @@
       "time": "18:30"
     },
     {
+      "team1": "FC Bayern München",
+      "team2": "SC Paderborn 07",
+      "date": "2026-12-04",
+      "time": "19:30"
+    },
+    {
       "team1": "1. FC Union Berlin",
       "team2": "Hamburger SV",
       "date": "2026-12-05",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Schalke 04",
-      "team2": "Borussia Dortmund",
-      "date": "2026-12-05",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Bayer 04 Leverkusen",
       "team2": "Borussia Mönchengladbach",
       "date": "2026-12-05",
-      "time": "00:00"
-    },
-    {
-      "team1": "Eintracht Frankfurt",
-      "team2": "SV Werder Bremen",
-      "date": "2026-12-05",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "RB Leipzig",
       "team2": "1. FSV Mainz 05",
       "date": "2026-12-05",
-      "time": "00:00"
-    },
-    {
-      "team1": "SV 07 Elversberg",
-      "team2": "VfB Stuttgart",
-      "date": "2026-12-05",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "SC Freiburg",
       "team2": "TSG 1899 Hoffenheim",
       "date": "2026-12-05",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Bayern München",
-      "team2": "SC Paderborn 07",
-      "date": "2026-12-05",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "FC Augsburg",
       "team2": "1. FC Köln",
       "date": "2026-12-05",
-      "time": "00:00"
+      "time": "14:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "SV Werder Bremen",
+      "date": "2026-12-05",
+      "time": "17:30"
+    },
+    {
+      "team1": "FC Schalke 04",
+      "team2": "Borussia Dortmund",
+      "date": "2026-12-06",
+      "time": "14:30"
+    },
+    {
+      "team1": "SV 07 Elversberg",
+      "team2": "VfB Stuttgart",
+      "date": "2026-12-06",
+      "time": "16:30"
+    },
+    {
+      "team1": "Hamburger SV",
+      "team2": "FC Schalke 04",
+      "date": "2026-12-11",
+      "time": "19:30"
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "SV 07 Elversberg",
       "date": "2026-12-12",
-      "time": "00:00"
-    },
-    {
-      "team1": "SV Werder Bremen",
-      "team2": "Bayer 04 Leverkusen",
-      "date": "2026-12-12",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "VfB Stuttgart",
       "team2": "1. FC Union Berlin",
       "date": "2026-12-12",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Borussia Dortmund",
       "team2": "FC Augsburg",
       "date": "2026-12-12",
-      "time": "00:00"
-    },
-    {
-      "team1": "Hamburger SV",
-      "team2": "FC Schalke 04",
-      "date": "2026-12-12",
-      "time": "00:00"
-    },
-    {
-      "team1": "1. FSV Mainz 05",
-      "team2": "SC Freiburg",
-      "date": "2026-12-12",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "1. FC Köln",
       "team2": "RB Leipzig",
       "date": "2026-12-12",
-      "time": "00:00"
-    },
-    {
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "FC Bayern München",
-      "date": "2026-12-12",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Borussia Mönchengladbach",
       "team2": "Eintracht Frankfurt",
       "date": "2026-12-12",
-      "time": "00:00"
+      "time": "17:30"
     },
     {
-      "team1": "FC Schalke 04",
-      "team2": "Borussia Mönchengladbach",
-      "date": "2026-12-19",
-      "time": "00:00"
+      "team1": "1. FSV Mainz 05",
+      "team2": "SC Freiburg",
+      "date": "2026-12-13",
+      "time": "14:30"
+    },
+    {
+      "team1": "TSG 1899 Hoffenheim",
+      "team2": "FC Bayern München",
+      "date": "2026-12-13",
+      "time": "16:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "Bayer 04 Leverkusen",
+      "date": "2026-12-13",
+      "time": "18:30"
     },
     {
       "team1": "FC Bayern München",
       "team2": "SV Werder Bremen",
-      "date": "2026-12-19",
-      "time": "00:00"
+      "date": "2026-12-18",
+      "time": "19:30"
     },
     {
       "team1": "SV 07 Elversberg",
       "team2": "Hamburger SV",
       "date": "2026-12-19",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Bayer 04 Leverkusen",
       "team2": "Eintracht Frankfurt",
       "date": "2026-12-19",
-      "time": "00:00"
-    },
-    {
-      "team1": "SC Freiburg",
-      "team2": "VfB Stuttgart",
-      "date": "2026-12-19",
-      "time": "00:00"
-    },
-    {
-      "team1": "RB Leipzig",
-      "team2": "Borussia Dortmund",
-      "date": "2026-12-19",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "1. FSV Mainz 05",
       "team2": "1. FC Köln",
       "date": "2026-12-19",
-      "time": "00:00"
-    },
-    {
-      "team1": "1. FC Union Berlin",
-      "team2": "TSG 1899 Hoffenheim",
-      "date": "2026-12-19",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "FC Augsburg",
       "team2": "SC Paderborn 07",
       "date": "2026-12-19",
-      "time": "00:00"
+      "time": "14:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "Borussia Dortmund",
+      "date": "2026-12-19",
+      "time": "17:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "VfB Stuttgart",
+      "date": "2026-12-20",
+      "time": "14:30"
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "TSG 1899 Hoffenheim",
+      "date": "2026-12-20",
+      "time": "16:30"
+    },
+    {
+      "team1": "FC Schalke 04",
+      "team2": "Borussia Mönchengladbach",
+      "date": "2026-12-20",
+      "time": "18:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "1. FSV Mainz 05",
+      "date": "2027-01-08",
+      "time": "19:30"
     },
     {
       "team1": "VfB Stuttgart",
       "team2": "FC Augsburg",
       "date": "2027-01-09",
-      "time": "00:00"
-    },
-    {
-      "team1": "Hamburger SV",
-      "team2": "Bayer 04 Leverkusen",
-      "date": "2027-01-09",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "1. FC Köln",
       "team2": "SC Freiburg",
       "date": "2027-01-09",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Eintracht Frankfurt",
       "team2": "FC Schalke 04",
       "date": "2027-01-09",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "TSG 1899 Hoffenheim",
       "team2": "SV 07 Elversberg",
       "date": "2027-01-09",
-      "time": "00:00"
-    },
-    {
-      "team1": "Borussia Mönchengladbach",
-      "team2": "FC Bayern München",
-      "date": "2027-01-09",
-      "time": "00:00"
-    },
-    {
-      "team1": "Borussia Dortmund",
-      "team2": "1. FSV Mainz 05",
-      "date": "2027-01-09",
-      "time": "00:00"
-    },
-    {
-      "team1": "SV Werder Bremen",
-      "team2": "1. FC Union Berlin",
-      "date": "2027-01-09",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "RB Leipzig",
       "date": "2027-01-09",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
-      "team1": "1. FSV Mainz 05",
-      "team2": "TSG 1899 Hoffenheim",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "team1": "Borussia Mönchengladbach",
+      "team2": "FC Bayern München",
+      "date": "2027-01-09",
+      "time": "17:30"
     },
     {
-      "team1": "SC Freiburg",
-      "team2": "Hamburger SV",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "team1": "SV Werder Bremen",
+      "team2": "1. FC Union Berlin",
+      "date": "2027-01-10",
+      "time": "14:30"
     },
     {
-      "team1": "FC Schalke 04",
-      "team2": "SV Werder Bremen",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "team1": "Hamburger SV",
+      "team2": "Bayer 04 Leverkusen",
+      "date": "2027-01-10",
+      "time": "16:30"
     },
     {
       "team1": "RB Leipzig",
       "team2": "VfB Stuttgart",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "date": "2027-01-12",
+      "time": "17:30"
     },
     {
-      "team1": "1. FC Union Berlin",
-      "team2": "SC Paderborn 07",
-      "date": "2027-01-13",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Bayern München",
-      "team2": "Bayer 04 Leverkusen",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "team1": "1. FSV Mainz 05",
+      "team2": "TSG 1899 Hoffenheim",
+      "date": "2027-01-12",
+      "time": "19:30"
     },
     {
       "team1": "FC Augsburg",
       "team2": "Borussia Mönchengladbach",
-      "date": "2027-01-13",
-      "time": "00:00"
+      "date": "2027-01-12",
+      "time": "19:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "Borussia Dortmund",
+      "date": "2027-01-12",
+      "time": "19:30"
     },
     {
       "team1": "SV 07 Elversberg",
       "team2": "Eintracht Frankfurt",
       "date": "2027-01-13",
-      "time": "00:00"
+      "time": "17:30"
     },
     {
-      "team1": "1. FC Köln",
-      "team2": "Borussia Dortmund",
+      "team1": "SC Freiburg",
+      "team2": "Hamburger SV",
       "date": "2027-01-13",
-      "time": "00:00"
+      "time": "19:30"
     },
     {
-      "team1": "SV Werder Bremen",
-      "team2": "SV 07 Elversberg",
-      "date": "2027-01-16",
-      "time": "00:00"
+      "team1": "1. FC Union Berlin",
+      "team2": "SC Paderborn 07",
+      "date": "2027-01-13",
+      "time": "19:30"
     },
     {
-      "team1": "Eintracht Frankfurt",
-      "team2": "FC Bayern München",
-      "date": "2027-01-16",
-      "time": "00:00"
+      "team1": "FC Bayern München",
+      "team2": "Bayer 04 Leverkusen",
+      "date": "2027-01-13",
+      "time": "19:30"
+    },
+    {
+      "team1": "FC Schalke 04",
+      "team2": "SV Werder Bremen",
+      "date": "2027-01-14",
+      "time": "19:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "1. FSV Mainz 05",
+      "date": "2027-01-15",
+      "time": "19:30"
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "1. FC Köln",
       "date": "2027-01-16",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "TSG 1899 Hoffenheim",
       "team2": "RB Leipzig",
       "date": "2027-01-16",
-      "time": "00:00"
-    },
-    {
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "FC Schalke 04",
-      "date": "2027-01-16",
-      "time": "00:00"
-    },
-    {
-      "team1": "VfB Stuttgart",
-      "team2": "1. FSV Mainz 05",
-      "date": "2027-01-16",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Hamburger SV",
       "team2": "FC Augsburg",
       "date": "2027-01-16",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Borussia Mönchengladbach",
       "team2": "1. FC Union Berlin",
       "date": "2027-01-16",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Borussia Dortmund",
       "team2": "SC Freiburg",
       "date": "2027-01-16",
-      "time": "00:00"
+      "time": "14:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "FC Bayern München",
+      "date": "2027-01-16",
+      "time": "17:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "SV 07 Elversberg",
+      "date": "2027-01-17",
+      "time": "14:30"
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "FC Schalke 04",
+      "date": "2027-01-17",
+      "time": "16:30"
     },
     {
       "team1": "SV Werder Bremen",
       "team2": "SC Freiburg",
-      "date": "2027-01-23",
-      "time": "00:00"
-    },
-    {
-      "team1": "Hamburger SV",
-      "team2": "Borussia Dortmund",
-      "date": "2027-01-23",
-      "time": "00:00"
+      "date": "2027-01-22",
+      "time": "19:30"
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "1. FSV Mainz 05",
       "date": "2027-01-23",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "FC Schalke 04",
       "team2": "FC Augsburg",
       "date": "2027-01-23",
-      "time": "00:00"
-    },
-    {
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "1. FC Köln",
-      "date": "2027-01-23",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "VfB Stuttgart",
       "team2": "FC Bayern München",
       "date": "2027-01-23",
-      "time": "00:00"
+      "time": "14:30"
     },
     {
       "team1": "Borussia Mönchengladbach",
       "team2": "RB Leipzig",
       "date": "2027-01-23",
-      "time": "00:00"
+      "time": "14:30"
+    },
+    {
+      "team1": "Hamburger SV",
+      "team2": "Borussia Dortmund",
+      "date": "2027-01-23",
+      "time": "17:30"
     },
     {
       "team1": "Eintracht Frankfurt",
       "team2": "1. FC Union Berlin",
-      "date": "2027-01-23",
-      "time": "00:00"
+      "date": "2027-01-24",
+      "time": "14:30"
     },
     {
       "team1": "Bayer 04 Leverkusen",
       "team2": "SV 07 Elversberg",
-      "date": "2027-01-23",
-      "time": "00:00"
+      "date": "2027-01-24",
+      "time": "16:30"
+    },
+    {
+      "team1": "TSG 1899 Hoffenheim",
+      "team2": "1. FC Köln",
+      "date": "2027-01-24",
+      "time": "18:30"
     },
     {
       "team1": "SV 07 Elversberg",
