@@ -1348,13 +1348,25 @@
       "team1": "CA Osasuna",
       "team2": "Athletic Club",
       "date": "2026-11-07",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Valencia CF",
       "team2": "Real Madrid CF",
       "date": "2026-11-07",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "team1": "Elche CF",
@@ -1505,6 +1517,18 @@
       "team2": "Getafe CF",
       "date": "2026-11-30",
       "time": "20:00"
+    },
+    {
+      "team1": "Real Sociedad de Fútbol",
+      "team2": "Real Madrid CF",
+      "date": "2026-12-02",
+      "time": "18:00"
+    },
+    {
+      "team1": "FC Barcelona",
+      "team2": "Club Atlético de Madrid",
+      "date": "2026-12-02",
+      "time": "20:30"
     },
     {
       "team1": "CA Osasuna",
@@ -2035,20 +2059,8 @@
       "time": "00:00"
     },
     {
-      "team1": "Real Sociedad de Fútbol",
-      "team2": "Real Madrid CF",
-      "date": "2027-02-07",
-      "time": "00:00"
-    },
-    {
       "team1": "Valencia CF",
       "team2": "Real Racing Club de Santander",
-      "date": "2027-02-07",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Barcelona",
-      "team2": "Club Atlético de Madrid",
       "date": "2027-02-07",
       "time": "00:00"
     },

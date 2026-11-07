@@ -1096,25 +1096,49 @@
       "team1": "Leeds United FC",
       "team2": "Tottenham Hotspur FC",
       "date": "2026-11-07",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Arsenal FC",
       "team2": "Hull City AFC",
       "date": "2026-11-07",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Fulham FC",
       "team2": "Newcastle United FC",
       "date": "2026-11-07",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Nottingham Forest FC",
       "team2": "Manchester City FC",
       "date": "2026-11-07",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Crystal Palace FC",

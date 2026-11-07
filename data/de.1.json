@@ -928,7 +928,13 @@
       "team1": "VfB Stuttgart",
       "team2": "SV Werder Bremen",
       "date": "2026-11-07",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "1. FC Köln",

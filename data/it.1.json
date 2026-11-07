@@ -1240,13 +1240,25 @@
       "team1": "Parma Calcio 1913",
       "team2": "Bologna FC 1909",
       "date": "2026-11-07",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "AS Roma",
       "team2": "US Sassuolo Calcio",
       "date": "2026-11-07",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "SSC Napoli",

@@ -1093,32 +1093,44 @@
       }
     },
     {
-      "team1": "CD Nacional",
-      "team2": "Académico de Viseu FC",
-      "date": "2026-11-07",
-      "time": "15:30"
-    },
-    {
       "team1": "FC Alverca",
       "team2": "Casa Pia AC",
       "date": "2026-11-07",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Sporting Clube de Portugal",
       "team2": "Moreirense FC",
       "date": "2026-11-07",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "GD Estoril Praia",
       "team2": "CS Marítimo",
       "date": "2026-11-08",
-      "time": "15:30"
+      "time": "00:00"
     },
     {
       "team1": "CD Santa Clara",
       "team2": "Gil Vicente FC",
+      "date": "2026-11-08",
+      "time": "15:30"
+    },
+    {
+      "team1": "CD Nacional",
+      "team2": "Académico de Viseu FC",
       "date": "2026-11-08",
       "time": "15:30"
     },

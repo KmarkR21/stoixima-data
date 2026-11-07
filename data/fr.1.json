@@ -988,13 +988,25 @@
       "team1": "AJ Auxerre",
       "team2": "Paris FC",
       "date": "2026-11-07",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Paris Saint-Germain FC",
       "team2": "ES Troyes AC",
       "date": "2026-11-07",
-      "time": "20:05"
+      "time": "20:05",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Stade Rennais FC 1901",
