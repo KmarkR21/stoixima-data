@@ -1192,7 +1192,13 @@
       "team1": "Willem II Tilburg",
       "team2": "PEC Zwolle",
       "date": "2026-11-06",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Fortuna Sittard",
