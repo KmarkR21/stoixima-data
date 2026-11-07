@@ -1204,7 +1204,13 @@
       "team1": "Fortuna Sittard",
       "team2": "Telstar 1963",
       "date": "2026-11-07",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "ADO Den Haag",

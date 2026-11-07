@@ -1216,13 +1216,25 @@
       "team1": "Torino FC",
       "team2": "US Lecce",
       "date": "2026-11-07",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Cagliari Calcio",
       "team2": "Frosinone Calcio",
       "date": "2026-11-07",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Parma Calcio 1913",

@@ -880,25 +880,49 @@
       "team1": "RB Leipzig",
       "team2": "FC Augsburg",
       "date": "2026-11-07",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          5,
+          2
+        ]
+      }
     },
     {
       "team1": "Borussia Dortmund",
       "team2": "SV 07 Elversberg",
       "date": "2026-11-07",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "1. FSV Mainz 05",
       "team2": "FC Bayern München",
       "date": "2026-11-07",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "SC Paderborn 07",
       "team2": "Eintracht Frankfurt",
       "date": "2026-11-07",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "VfB Stuttgart",
