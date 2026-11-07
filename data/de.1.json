@@ -868,7 +868,13 @@
       "team1": "Hamburger SV",
       "team2": "Borussia Mönchengladbach",
       "date": "2026-11-06",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "RB Leipzig",

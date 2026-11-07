@@ -1084,7 +1084,13 @@
       "team1": "FC Famalicão",
       "team2": "FC Arouca",
       "date": "2026-11-06",
-      "time": "20:45"
+      "time": "20:45",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "CD Nacional",

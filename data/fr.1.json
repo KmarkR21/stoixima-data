@@ -976,7 +976,13 @@
       "team1": "Toulouse FC",
       "team2": "RC Strasbourg Alsace",
       "date": "2026-11-06",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "AJ Auxerre",

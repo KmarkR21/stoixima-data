@@ -1204,7 +1204,13 @@
       "team1": "Venezia FC",
       "team2": "Udinese Calcio",
       "date": "2026-11-06",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Torino FC",

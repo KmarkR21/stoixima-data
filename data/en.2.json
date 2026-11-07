@@ -2020,7 +2020,13 @@
       "team1": "Derby County FC",
       "team2": "Bolton Wanderers FC",
       "date": "2026-11-06",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "Wrexham AFC",

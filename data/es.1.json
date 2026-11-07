@@ -1312,7 +1312,13 @@
       "team1": "Sevilla FC",
       "team2": "Deportivo Alavés",
       "date": "2026-11-06",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Málaga CF",
@@ -1429,64 +1435,64 @@
       "time": "20:00"
     },
     {
-      "team1": "RC Celta de Vigo",
-      "team2": "Villarreal CF",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Elche CF",
-      "team2": "Club Atlético de Madrid",
-      "date": "2026-11-29",
-      "time": "00:00"
+      "team1": "Levante UD",
+      "team2": "Real Racing Club de Santander",
+      "date": "2026-11-27",
+      "time": "20:00"
     },
     {
       "team1": "Real Betis Balompié",
       "team2": "Rayo Vallecano de Madrid",
-      "date": "2026-11-29",
-      "time": "00:00"
+      "date": "2026-11-28",
+      "time": "13:00"
+    },
+    {
+      "team1": "Málaga CF",
+      "team2": "Athletic Club",
+      "date": "2026-11-28",
+      "time": "15:15"
+    },
+    {
+      "team1": "Elche CF",
+      "team2": "Club Atlético de Madrid",
+      "date": "2026-11-28",
+      "time": "17:30"
+    },
+    {
+      "team1": "Real Madrid CF",
+      "team2": "Deportivo Alavés",
+      "date": "2026-11-28",
+      "time": "20:00"
     },
     {
       "team1": "Valencia CF",
       "team2": "CA Osasuna",
       "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Real Madrid CF",
-      "team2": "Deportivo Alavés",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "RCD Espanyol de Barcelona",
-      "team2": "Getafe CF",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Real Sociedad de Fútbol",
-      "team2": "Sevilla FC",
-      "date": "2026-11-29",
-      "time": "00:00"
-    },
-    {
-      "team1": "Levante UD",
-      "team2": "Real Racing Club de Santander",
-      "date": "2026-11-29",
-      "time": "00:00"
+      "time": "13:00"
     },
     {
       "team1": "RC Deportivo La Coruña",
       "team2": "FC Barcelona",
       "date": "2026-11-29",
-      "time": "00:00"
+      "time": "15:15"
     },
     {
-      "team1": "Málaga CF",
-      "team2": "Athletic Club",
+      "team1": "RC Celta de Vigo",
+      "team2": "Villarreal CF",
       "date": "2026-11-29",
-      "time": "00:00"
+      "time": "17:30"
+    },
+    {
+      "team1": "Real Sociedad de Fútbol",
+      "team2": "Sevilla FC",
+      "date": "2026-11-29",
+      "time": "20:00"
+    },
+    {
+      "team1": "RCD Espanyol de Barcelona",
+      "team2": "Getafe CF",
+      "date": "2026-11-30",
+      "time": "20:00"
     },
     {
       "team1": "CA Osasuna",
