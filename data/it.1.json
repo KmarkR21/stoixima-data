@@ -1300,13 +1300,25 @@
       "team1": "FC Internazionale Milano",
       "team2": "Como 1907",
       "date": "2026-11-08",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "ACF Fiorentina",
       "team2": "Juventus FC",
       "date": "2026-11-08",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Como 1907",

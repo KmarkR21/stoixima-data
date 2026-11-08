@@ -1396,19 +1396,37 @@
       "team1": "RC Celta de Vigo",
       "team2": "Levante UD",
       "date": "2026-11-08",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Villarreal CF",
       "team2": "Getafe CF",
       "date": "2026-11-08",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Club Atlético de Madrid",
       "team2": "FC Barcelona",
       "date": "2026-11-08",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Athletic Club",

@@ -964,7 +964,13 @@
       "team1": "TSG 1899 Hoffenheim",
       "team2": "FC Schalke 04",
       "date": "2026-11-08",
-      "time": "18:30"
+      "time": "18:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Bayern München",

@@ -1240,31 +1240,61 @@
       "team1": "SC Heerenveen",
       "team2": "Feyenoord Rotterdam",
       "date": "2026-11-08",
-      "time": "11:15"
+      "time": "11:15",
+      "score": {
+        "ft": [
+          5,
+          3
+        ]
+      }
     },
     {
       "team1": "FC Twente '65",
       "team2": "AFC Ajax",
       "date": "2026-11-08",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "AZ",
       "team2": "FC Groningen",
       "date": "2026-11-08",
-      "time": "15:45"
+      "time": "15:45",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
       "team1": "SC Cambuur-Leeuwarden",
       "team2": "PSV",
       "date": "2026-11-08",
-      "time": "15:45"
+      "time": "15:45",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
       "team1": "FC Utrecht",
       "team2": "NEC",
       "date": "2026-11-08",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "NEC",

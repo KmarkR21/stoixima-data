@@ -1150,19 +1150,37 @@
       "team1": "Vitória SC",
       "team2": "FC Porto",
       "date": "2026-11-08",
-      "time": "18:00"
+      "time": "18:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Rio Ave FC",
       "team2": "Sporting Clube de Braga",
       "date": "2026-11-08",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "CF Estrela da Amadora",
       "team2": "Sport Lisboa e Benfica",
       "date": "2026-11-08",
-      "time": "20:30"
+      "time": "20:30",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "CS Marítimo",

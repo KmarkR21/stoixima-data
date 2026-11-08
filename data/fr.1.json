@@ -1072,7 +1072,13 @@
       "team1": "Racing Club de Lens",
       "team2": "Olympique de Marseille",
       "date": "2026-11-08",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "ES Troyes AC",
