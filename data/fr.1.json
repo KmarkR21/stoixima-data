@@ -1012,31 +1012,61 @@
       "team1": "Stade Rennais FC 1901",
       "team2": "Lille OSC",
       "date": "2026-11-08",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Le Mans FC",
       "team2": "AS Monaco FC",
       "date": "2026-11-08",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Stade Brestois 29",
       "team2": "Olympique Lyonnais",
       "date": "2026-11-08",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Le Havre AC",
       "team2": "FC Lorient",
       "date": "2026-11-08",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Angers SCO",
       "team2": "OGC Nice",
       "date": "2026-11-08",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Racing Club de Lens",

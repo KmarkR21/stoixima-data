@@ -1264,19 +1264,37 @@
       "team1": "SSC Napoli",
       "team2": "SS Lazio",
       "date": "2026-11-08",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Genoa CFC",
       "team2": "AC Milan",
       "date": "2026-11-08",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "AC Monza",
       "team2": "Atalanta BC",
       "date": "2026-11-08",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Internazionale Milano",

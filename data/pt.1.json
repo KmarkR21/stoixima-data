@@ -1126,13 +1126,25 @@
       "team1": "CD Santa Clara",
       "team2": "Gil Vicente FC",
       "date": "2026-11-08",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "CD Nacional",
       "team2": "Académico de Viseu FC",
       "date": "2026-11-08",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Vitória SC",
