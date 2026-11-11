@@ -1117,12 +1117,6 @@
       }
     },
     {
-      "team1": "GD Estoril Praia",
-      "team2": "CS Marítimo",
-      "date": "2026-11-08",
-      "time": "00:00"
-    },
-    {
       "team1": "CD Santa Clara",
       "team2": "Gil Vicente FC",
       "date": "2026-11-08",
@@ -1451,6 +1445,12 @@
       "team2": "FC Alverca",
       "date": "2026-12-27",
       "time": "00:00"
+    },
+    {
+      "team1": "GD Estoril Praia",
+      "team2": "CS Marítimo",
+      "date": "2027-01-04",
+      "time": "20:15"
     },
     {
       "team1": "Sporting Clube de Braga",
