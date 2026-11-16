@@ -1591,18 +1591,6 @@
       "time": "20:00"
     },
     {
-      "team1": "Sevilla FC",
-      "team2": "Málaga CF",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
-      "team1": "Club Atlético de Madrid",
-      "team2": "Real Betis Balompié",
-      "date": "2026-12-06",
-      "time": "00:00"
-    },
-    {
       "team1": "CA Osasuna",
       "team2": "Elche CF",
       "date": "2026-12-06",
@@ -1619,6 +1607,18 @@
       "team2": "Valencia CF",
       "date": "2026-12-06",
       "time": "17:30"
+    },
+    {
+      "team1": "Club Atlético de Madrid",
+      "team2": "Real Betis Balompié",
+      "date": "2026-12-06",
+      "time": "20:00"
+    },
+    {
+      "team1": "Sevilla FC",
+      "team2": "Málaga CF",
+      "date": "2026-12-07",
+      "time": "20:00"
     },
     {
       "team1": "Rayo Vallecano de Madrid",

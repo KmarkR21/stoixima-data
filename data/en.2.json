@@ -28,13 +28,7 @@
       "team1": "Norwich City FC",
       "team2": "West Bromwich Albion FC",
       "date": "2026-08-15",
-      "time": "14:00",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
+      "time": "14:00"
     },
     {
       "team1": "Bristol City FC",
@@ -1060,13 +1054,7 @@
       "team1": "Burnley FC",
       "team2": "Derby County FC",
       "date": "2026-09-19",
-      "time": "14:00",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
+      "time": "14:00"
     },
     {
       "team1": "Queens Park Rangers FC",
