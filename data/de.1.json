@@ -976,7 +976,13 @@
       "team1": "FC Bayern München",
       "team2": "1. FC Köln",
       "date": "2026-11-20",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Bayer 04 Leverkusen",
