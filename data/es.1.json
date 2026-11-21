@@ -1432,7 +1432,13 @@
       "team1": "Athletic Club",
       "team2": "RCD Espanyol de Barcelona",
       "date": "2026-11-20",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Deportivo Alavés",
