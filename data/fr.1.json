@@ -1096,7 +1096,13 @@
       "team1": "OGC Nice",
       "team2": "Paris Saint-Germain FC",
       "date": "2026-11-21",
-      "time": "16:15"
+      "time": "16:15",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "AS Monaco FC",

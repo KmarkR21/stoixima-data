@@ -2164,49 +2164,97 @@
       "team1": "Southampton FC",
       "team2": "Derby County FC",
       "date": "2026-11-21",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Norwich City FC",
       "team2": "Cardiff City FC",
       "date": "2026-11-21",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Millwall FC",
       "team2": "Queens Park Rangers FC",
       "date": "2026-11-21",
-      "time": "12:30"
+      "time": "12:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Sheffield United FC",
       "team2": "Watford FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "Swansea City AFC",
       "team2": "West Bromwich Albion FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Middlesbrough FC",
       "team2": "Bristol City FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Bolton Wanderers FC",
       "team2": "Portsmouth FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Stoke City FC",
       "team2": "Birmingham City FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Lincoln City FC",
@@ -2218,13 +2266,25 @@
       "team1": "West Ham United FC",
       "team2": "Preston North End FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Wolverhampton Wanderers FC",
       "team2": "Charlton Athletic FC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Burnley FC",

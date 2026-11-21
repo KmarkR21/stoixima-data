@@ -1300,19 +1300,37 @@
       "team1": "NEC",
       "team2": "PSV",
       "date": "2026-11-21",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
       "team1": "Feyenoord Rotterdam",
       "team2": "SBV Excelsior",
       "date": "2026-11-21",
-      "time": "17:45"
+      "time": "17:45",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "FC Utrecht",
       "team2": "SC Cambuur-Leeuwarden",
       "date": "2026-11-21",
-      "time": "17:45"
+      "time": "17:45",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "team1": "Telstar 1963",
