@@ -988,37 +988,73 @@
       "team1": "Bayer 04 Leverkusen",
       "team2": "SC Paderborn 07",
       "date": "2026-11-21",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "1. FC Union Berlin",
       "team2": "RB Leipzig",
       "date": "2026-11-21",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "team1": "SV 07 Elversberg",
       "team2": "SC Freiburg",
       "date": "2026-11-21",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Borussia Mönchengladbach",
       "team2": "Borussia Dortmund",
       "date": "2026-11-21",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Eintracht Frankfurt",
       "team2": "TSG 1899 Hoffenheim",
       "date": "2026-11-21",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "FC Schalke 04",
       "team2": "VfB Stuttgart",
       "date": "2026-11-21",
-      "time": "17:30"
+      "time": "17:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "FC Augsburg",

@@ -1108,25 +1108,49 @@
       "team1": "AS Monaco FC",
       "team2": "AJ Auxerre",
       "date": "2026-11-21",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Racing Club de Lens",
       "team2": "Toulouse FC",
       "date": "2026-11-21",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Lille OSC",
       "team2": "Olympique Lyonnais",
       "date": "2026-11-21",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "RC Strasbourg Alsace",
       "team2": "Stade Brestois 29",
       "date": "2026-11-21",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Paris FC",
