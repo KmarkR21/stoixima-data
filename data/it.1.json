@@ -1372,19 +1372,37 @@
       "team1": "Juventus FC",
       "team2": "Venezia FC",
       "date": "2026-11-22",
-      "time": "11:30"
+      "time": "11:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "Bologna FC 1909",
       "team2": "Udinese Calcio",
       "date": "2026-11-22",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "US Sassuolo Calcio",
       "team2": "Genoa CFC",
       "date": "2026-11-22",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "AC Milan",

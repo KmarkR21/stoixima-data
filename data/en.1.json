@@ -1288,7 +1288,13 @@
       "team1": "Hull City AFC",
       "team2": "Brighton & Hove Albion FC",
       "date": "2026-11-22",
-      "time": "14:00"
+      "time": "14:00",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "team1": "Liverpool FC",

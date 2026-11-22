@@ -1492,13 +1492,25 @@
       "team1": "FC Barcelona",
       "team2": "Villarreal CF",
       "date": "2026-11-22",
-      "time": "13:00"
+      "time": "13:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Real Racing Club de Santander",
       "team2": "Real Sociedad de Fútbol",
       "date": "2026-11-22",
-      "time": "15:15"
+      "time": "15:15",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "CA Osasuna",

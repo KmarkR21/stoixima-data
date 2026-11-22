@@ -1060,7 +1060,13 @@
       "team1": "FC Augsburg",
       "team2": "1. FSV Mainz 05",
       "date": "2026-11-22",
-      "time": "14:30"
+      "time": "14:30",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "team1": "SV Werder Bremen",
