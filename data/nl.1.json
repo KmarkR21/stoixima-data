@@ -1360,25 +1360,49 @@
       "team1": "FC Twente '65",
       "team2": "Willem II Tilburg",
       "date": "2026-11-22",
-      "time": "11:15"
+      "time": "11:15",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Sparta Rotterdam",
       "team2": "AZ",
       "date": "2026-11-22",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "team1": "AFC Ajax",
       "team2": "ADO Den Haag",
       "date": "2026-11-22",
-      "time": "13:30"
+      "time": "13:30",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Go Ahead Eagles",
       "team2": "Fortuna Sittard",
       "date": "2026-11-22",
-      "time": "15:45"
+      "time": "15:45",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "FC Groningen",

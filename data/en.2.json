@@ -2290,13 +2290,7 @@
       "team1": "Burnley FC",
       "team2": "Blackburn Rovers FC",
       "date": "2026-11-22",
-      "time": "12:00",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
+      "time": "12:00"
     },
     {
       "team1": "Cardiff City FC",

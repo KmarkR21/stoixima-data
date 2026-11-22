@@ -1072,7 +1072,13 @@
       "team1": "SV Werder Bremen",
       "team2": "Hamburger SV",
       "date": "2026-11-22",
-      "time": "16:30"
+      "time": "16:30",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "SV Werder Bremen",

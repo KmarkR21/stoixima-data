@@ -1408,13 +1408,25 @@
       "team1": "AC Milan",
       "team2": "Frosinone Calcio",
       "date": "2026-11-22",
-      "time": "17:00"
+      "time": "17:00",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
       "team1": "Atalanta BC",
       "team2": "FC Internazionale Milano",
       "date": "2026-11-22",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          4,
+          4
+        ]
+      }
     },
     {
       "team1": "AC Monza",
