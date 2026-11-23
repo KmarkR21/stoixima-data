@@ -2260,7 +2260,13 @@
       "team1": "Lincoln City FC",
       "team2": "Wrexham AFC",
       "date": "2026-11-21",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "West Ham United FC",
@@ -2290,7 +2296,13 @@
       "team1": "Burnley FC",
       "team2": "Blackburn Rovers FC",
       "date": "2026-11-22",
-      "time": "12:00"
+      "time": "12:00",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
       "team1": "Cardiff City FC",
