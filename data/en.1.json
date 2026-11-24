@@ -1312,7 +1312,13 @@
       "team1": "Brentford FC",
       "team2": "Everton FC",
       "date": "2026-11-23",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
       "team1": "Nottingham Forest FC",

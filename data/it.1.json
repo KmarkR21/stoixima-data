@@ -1432,7 +1432,13 @@
       "team1": "AC Monza",
       "team2": "ACF Fiorentina",
       "date": "2026-11-23",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Venezia FC",

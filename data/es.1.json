@@ -1540,7 +1540,13 @@
       "team1": "Levante UD",
       "team2": "Elche CF",
       "date": "2026-11-23",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Levante UD",
