@@ -493,18 +493,6 @@
       }
     },
     {
-      "team1": "Birmingham City FC",
-      "team2": "Southampton FC",
-      "date": "2026-09-01",
-      "time": "18:45",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
       "team1": "Swansea City AFC",
       "team2": "Watford FC",
       "date": "2026-09-01",
@@ -525,6 +513,18 @@
         "ft": [
           1,
           0
+        ]
+      }
+    },
+    {
+      "team1": "Birmingham City FC",
+      "team2": "Southampton FC",
+      "date": "2026-09-01",
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
         ]
       }
     },
@@ -2404,25 +2404,49 @@
       "team1": "Watford FC",
       "team2": "Blackburn Rovers FC",
       "date": "2026-11-25",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Bolton Wanderers FC",
       "team2": "West Bromwich Albion FC",
       "date": "2026-11-25",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Burnley FC",
       "team2": "Birmingham City FC",
       "date": "2026-11-25",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "Stoke City FC",
       "team2": "Millwall FC",
       "date": "2026-11-25",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "team1": "Southampton FC",
