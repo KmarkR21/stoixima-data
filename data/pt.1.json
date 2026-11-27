@@ -1351,12 +1351,6 @@
       "time": "20:30"
     },
     {
-      "team1": "Rio Ave FC",
-      "team2": "Sport Lisboa e Benfica",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
       "team1": "Sporting Clube de Braga",
       "team2": "Académico de Viseu FC",
       "date": "2026-12-20",
@@ -1365,12 +1359,6 @@
     {
       "team1": "Sporting Clube de Portugal",
       "team2": "GD Estoril Praia",
-      "date": "2026-12-20",
-      "time": "00:00"
-    },
-    {
-      "team1": "FC Famalicão",
-      "team2": "FC Porto",
       "date": "2026-12-20",
       "time": "00:00"
     },
@@ -1391,6 +1379,18 @@
       "team2": "Vitória SC",
       "date": "2026-12-20",
       "time": "20:30"
+    },
+    {
+      "team1": "Rio Ave FC",
+      "team2": "Sport Lisboa e Benfica",
+      "date": "2026-12-21",
+      "time": "18:45"
+    },
+    {
+      "team1": "FC Famalicão",
+      "team2": "FC Porto",
+      "date": "2026-12-21",
+      "time": "20:45"
     },
     {
       "team1": "Vitória SC",
