@@ -1180,7 +1180,13 @@
       "team1": "CS Marítimo",
       "team2": "CD Nacional",
       "date": "2026-11-27",
-      "time": "20:15"
+      "time": "20:15",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "team1": "Moreirense FC",

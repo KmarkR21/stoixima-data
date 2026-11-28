@@ -1324,7 +1324,13 @@
       "team1": "Nottingham Forest FC",
       "team2": "Chelsea FC",
       "date": "2026-11-27",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "team1": "Leeds United FC",

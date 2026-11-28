@@ -1192,7 +1192,13 @@
       "team1": "Stade Brestois 29",
       "team2": "Paris FC",
       "date": "2026-11-27",
-      "time": "19:45"
+      "time": "19:45",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Angers SCO",

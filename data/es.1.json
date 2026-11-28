@@ -1552,7 +1552,13 @@
       "team1": "Levante UD",
       "team2": "Real Racing Club de Santander",
       "date": "2026-11-27",
-      "time": "20:00"
+      "time": "20:00",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
       "team1": "Real Betis Balompié",

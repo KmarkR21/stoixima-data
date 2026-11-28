@@ -1084,7 +1084,13 @@
       "team1": "SV Werder Bremen",
       "team2": "Borussia Mönchengladbach",
       "date": "2026-11-27",
-      "time": "19:30"
+      "time": "19:30",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
       "team1": "1. FC Köln",

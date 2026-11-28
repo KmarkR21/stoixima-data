@@ -1408,7 +1408,13 @@
       "team1": "FC Groningen",
       "team2": "Willem II Tilburg",
       "date": "2026-11-27",
-      "time": "19:00"
+      "time": "19:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "SBV Excelsior",
