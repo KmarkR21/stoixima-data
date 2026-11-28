@@ -1420,7 +1420,13 @@
       "team1": "SBV Excelsior",
       "team2": "Telstar 1963",
       "date": "2026-11-28",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "PSV",

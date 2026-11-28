@@ -1336,13 +1336,25 @@
       "team1": "Leeds United FC",
       "team2": "Coventry City FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "team1": "Manchester United FC",
       "team2": "Brentford FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
       "team1": "Ipswich Town FC",

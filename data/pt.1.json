@@ -1192,13 +1192,25 @@
       "team1": "Moreirense FC",
       "team2": "CD Santa Clara",
       "date": "2026-11-28",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "team1": "FC Arouca",
       "team2": "Rio Ave FC",
       "date": "2026-11-28",
-      "time": "15:30"
+      "time": "15:30",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "Académico de Viseu FC",

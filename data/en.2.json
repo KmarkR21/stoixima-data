@@ -2482,43 +2482,85 @@
       "team1": "Wrexham AFC",
       "team2": "Portsmouth FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Queens Park Rangers FC",
       "team2": "Sheffield United FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "team1": "Millwall FC",
       "team2": "Burnley FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "team1": "Birmingham City FC",
       "team2": "Bolton Wanderers FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
       "team1": "Derby County FC",
       "team2": "Watford FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
       "team1": "West Ham United FC",
       "team2": "Stoke City FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "West Bromwich Albion FC",
       "team2": "Bristol City FC",
       "date": "2026-11-28",
-      "time": "15:00"
+      "time": "15:00",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
       "team1": "Swansea City AFC",
